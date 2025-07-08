@@ -130,7 +130,7 @@ graph TB
 
 **BATTLE ACTIONS:**
 
-- [📖 Read the Ancient Scrolls](cursor-tip/planning-template-example.md)
+- [📖 Read the Ancient Scrolls](planning-template-example.md)
 - [⚔️ Challenge Accepted] - Study the planning template
 - [🎨 Visualize] - Create your own planning diagram
 - [✅ Mark as Defeated] - Complete the quest
@@ -210,7 +210,7 @@ graph TB
 
 **BATTLE ACTIONS:**
 
-- [📖 Study the Mermaid Grimoire](cursor-tip/prompt-guide-mermaid-chart.md)
+- [📖 Study the Mermaid Grimoire](prompt-guide-mermaid-chart.md)
 - [⚔️ Master the Syntax] - Learn proper Mermaid formatting
 - [🎨 Create Art] - Draw your first battle diagram
 - [✅ Prove Your Worth] - Show mastery
@@ -320,7 +320,7 @@ graph TD
 
 **BATTLE ACTIONS:**
 
-- [📖 Read the Sacred Protocol](cursor-tip/rule-21-05-2025.md)
+- [📖 Read the Sacred Protocol](rule-21-05-2025.md)
 - [⚔️ Master All 7 Patterns] - The ultimate challenge
 - [🎨 Demonstrate Mastery] - Show you understand
 - [✅ Achieve Enlightenment] - Complete transformation
