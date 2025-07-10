@@ -1,0 +1,63 @@
+{
+  "mcpServers": {
+    "server-sequential-thinking": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-sequential-thinking"]
+    },
+    "Framelink Figma MCP": {
+      "url": "http://localhost:3333/sse"
+    },
+    "Github MCP": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-github",
+        "--token",
+        "YOUR_GITHUB_TOKEN"
+      ]
+    },
+    "brave-search": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@smithery-ai/brave-search",
+        "--key",
+        "YOUR_BRAVE_SEARCH_KEY",
+        "--profile",
+        "progressive-tuna-XMo42N"
+      ]
+    },
+    "perplexity-ask": {
+      "command": "npx",
+      "args": ["-y", "server-perplexity-ask"],
+      "env": {
+        "PERPLEXITY_API_KEY": "YOUR_PERPLEXITY_API_KEY"
+      }
+    },
+    "clear-thought-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@ThinkFar/clear-thought-mcp",
+        "--key",
+        "917ecf43-418b-48d6-b09f-d1461bbec095"
+      ]
+    },
+
+    "context7-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@upstash/context7-mcp",
+        "--key",
+        "917ecf43-418b-48d6-b09f-d1461bbec095"
+      ]
+    }
+  }
+}
