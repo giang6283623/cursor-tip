@@ -1066,7 +1066,7 @@ Found a new boss we missed? Discovered advanced MCP techniques? Want to add your
 
 ## 📜 ENHANCED CREDITS & EASTER EGGS
 
-**Created by:** The Ultimate Code Warriors Guild  
+**Created by:** The Ultimate Code Warriors Guild : [GiangBV - Mage](https://www.linkedin.com/in/buivangiang1992), [AuPMH - Warrior](https://www.linkedin.com/in/pham-au-2a1bb1162)
 **Powered by:** Caffeine, Determination, AI Collaboration, and Questionable Life Choices  
 **Special Thanks:** Stack Overflow, GitHub Copilot, MCP Protocol, Sequential Thinking, Claude Sonnet 4.0, and the Power of Systematic Planning
 
