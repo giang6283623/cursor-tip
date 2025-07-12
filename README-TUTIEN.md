@@ -1,6 +1,8 @@
-# 🔥 HÀNH TRÌNH TU TIÊN CURSOR TIPS
+# 🌸 HÀNH TRÌNH TU TIÊN HOA - CURSOR TIPS
 
-## _Thiên Hạ Đệ Nhất Tu Tiên IDE - Con Đường Thành Đạo_
+## _Khi Thiên Nhiên Gặp Công Nghệ - Câu Chuyện Của Hoa Tiểu Tiên_
+
+> **🌱 CỐT TRUYỆN:** Bạn là Hoa, một tiểu tiên từ bộ tộc rừng cổ, thức dậy trên một chiếc thuyền lá giữa thế giới hiện đại Sài Gòn. Nơi đây, linh khí thiên nhiên đang bị máy móc và code thải ra "độc khí digital" nuốt chửng. Nhiệm vụ của bạn: Sử dụng sức mạnh tu tiên kết hợp với công nghệ AI để khôi phục sự cân bằng giữa thiên nhiên và thế giới số.
 
 ```mermaid
 graph TD
@@ -55,41 +57,41 @@ graph TD
 <details>
 <summary>🧬 Linh Căn Phân Tích Hệ Thống</summary>
 
-**Hiện Tại Tu Vi:** `Luyện Khí` Sơ Kỳ  
-**Tu Tiên Kinh Nghiệm:** 0 / 2000 _(mở rộng cho nội dung mới!)_  
-**Linh Lực:** ████████████████████ 100/100  
-**Tâm Tính:** ███████░░░░░░░░░░░░░░ 35/100 _(hoàn toàn bình thường cho lập trình viên)_  
-**AI Hợp Tác:** ░░░░░░░░░░░░░░░░░░░░ 0/100 _(mở khóa ở cảnh giới cao)_
+**Hiện Tại Tu Vi:** `Luyện Khí` Sơ Kỳ - _Tiểu Tiên Hoa mới thức dậy_  
+**Tu Tiên Kinh Nghiệm:** 0 / 2000 _(khám phá thế giới Sài Gòn hiện đại!)_  
+**Linh Lực Thiên Nhiên:** ████████████████████ 100/100  
+**Kháng Độc Digital:** ███████░░░░░░░░░░░░░░ 35/100 _(đang thích ứng với thế giới công nghệ)_  
+**AI Hợp Tác:** ░░░░░░░░░░░░░░░░░░░░ 0/100 _(bí mật sẽ mở khóa ở Sài Gòn)_
 
-**Linh Căn Thuộc Tính:**
+**Thuộc Tính Linh Căn Đặc Biệt:**
 
-- [ ] 🔥 Hỏa Linh Căn: _(Tốc độ lập trình)_
-- [ ] 💧 Thủy Linh Căn: _(Linh hoạt thích ứng)_
-- [ ] 🌍 Thổ Linh Căn: _(Nền tảng vững chắc)_
-- [ ] 🌪️ Phong Linh Căn: _(Tư duy nhanh nhạy)_
-- [ ] ⚡ Lôi Linh Căn: _(Sức mạnh đột phá)_
+- [ ] 🌸 Hoa Linh Căn: _(Sức mạnh thiên nhiên nguyên thủy)_
+- [ ] 🏙️ Đô Thị Linh Căn: _(Thích ứng với nhịp sống Sài Gòn)_
+- [ ] 💻 Công Nghệ Linh Căn: _(Hiểu được ngôn ngữ máy móc)_
+- [ ] 🌿 Cân Bằng Linh Căn: _(Hòa hợp thiên nhiên và công nghệ)_
+- [ ] 👻 Tổ Tiên Linh Căn: _(Kết nối với trí tuệ cổ đại)_
 
-**Đã Lĩnh Ngộ Thần Thông:**
+**Thần Thông Hoa Tiểu Tiên Đã Lĩnh Ngộ:**
 
-- [ ] 📋 Quy Hoạch Tâm Pháp Đại Thành
-- [ ] 🎨 Mermaid Huyền Thuật Tinh Thông
-- [ ] 🤖 Giao Thức Đại Đạo Lĩnh Ngộ
-- [ ] 🔥 Đa Chiều Tư Duy Thần Công
-- [ ] 💀 Debug Trừ Ma Đại Pháp
-- [ ] ⚡ **AI Hợp Tác Thần Thông** _(TRUYỀN THUYẾT)_
-- [ ] 🏛️ **Thực Chiến Ứng Dụng Đại Sư** _(THỰC DỤNG CHÂN QUYỀN)_
-- [ ] 🏦 **Memory Banking Chí Cao Thần Công** _(MỚI - CHUYỆT KỸ TUYỆT ĐỈNH)_
+- [ ] 🌱 **Thiên Nhiên Quy Hoạch Pháp** - _Lập kế hoạch như dòng nước suối_
+- [ ] 🌸 **Hoa Đồ Huyền Thuật** - _Mermaid charts đẹp như tranh thủy mặc_
+- [ ] 🏙️ **Sài Gòn Giao Thức Đại Đạo** - _Hiểu được luật lệ thành phố_
+- [ ] 🌿 **Cân Bằng Tư Duy Thần Công** - _Hòa hợp thiên nhiên và công nghệ_
+- [ ] 🐛 **Digital Trừ Độc Đại Pháp** - _Thanh lọc bug và error_
+- [ ] 🤖 **AI Cộng Sinh Thần Thông** _(TRUYỀN THUYẾT - Hợp tác với AI như bạn đồng hành)_
+- [ ] 🏛️ **Đô Thị Sinh Tồn Đại Sư** _(Ứng dụng thực tế trong thành phố)_
+- [ ] 🌺 **Hoa Memory Banking Tối Thượng Pháp** _(MỚI - Lưu giữ trí tuệ như hoa sen nghìn cánh)_
 
-**Linh Khí Kho Tàng:**
+**Bảo Vật Hoa Tiểu Tiên:**
 
-- 🍕 Khẩn Cấp Pizza x3
-- ☕ Caffeine Tiên Đan x∞
-- 🐛 Cao Su Vịt Debug _(linh khí cổ vật)_
-- 💾 Legacy Code Thám Tri Khí _(tà khí vật phẩm)_
-- 🤖 **AI Hợp Tác Linh Châu** _(mở khóa MCP thần thông)_
-- 📋 **Đại Sư Quy Hoạch Thiên Thư** _(chứa cổ đại template)_
-- 🏦 **Memory Banking Hệ Thống** _(MỚI - chuyệt kỹ tuyệt đỉnh framework)_
-- ⚙️ **Cô Lập Quy Tắc Cổ Tịch** _(MỚI - chứa lục đại thiêng liêng mode)_
+- 🥖 Bánh Mì Sài Gòn Năng Lượng x3 _(thức ăn đường phố thần thánh)_
+- ☕ Cà Phê Sữa Đá Tiên Đan x∞ _(caffeine Việt Nam nguyên chất)_
+- 🌸 Hoa Sen Debug Linh Vật _(thanh lọc code như nước thiêng)_
+- 💾 Legacy Code Ma Khí _(tà khí từ thời tiền sử lập trình)_
+- 🏮 **Đèn Lồng AI Cộng Sinh** _(ánh sáng dẫn đường hợp tác với AI)_
+- 📜 **Sách Cổ Quy Hoạch Tổ Tiên** _(template từ trí tuệ xưa)_
+- 🏛️ **Chùa Memory Banking Linh Thiêng** _(MỚI - nơi lưu giữ mọi tri thức)_
+- 🎭 **Mặt Nạ Năm Chế Độ Thần Thánh** _(MỚI - VAN, PLAN, CREATIVE, IMPLEMENT, REFLECT+ARCHIVE)_
 
 </details>
 
@@ -177,23 +179,28 @@ graph TB
 
 ---
 
-## ⚔️ CẢNH GIỚI 1: LUYỆN KHÍ KỲ - QUY HOẠCH TÂM PHÁP
+## ⚔️ CẢNH GIỚI 1: LUYỆN KHÍ KỲ - THIÊN NHIÊN QUY HOẠCH PHÁP
 
-### _Sơ Nhập Tu Tiên Chi Môn, Quy Hoạch Tâm Pháp Lĩnh Ngộ_
+### _Hoa Tiểu Tiên Thức Dậy, Học Cách Cân Bằng Thiên Nhiên Và Công Nghệ_
 
 <details>
-<summary>🌟 Trưởng Lão Tình Báo</summary>
+<summary>🌸 Hoa Sen Đạo Sư Tình Báo</summary>
 
-**Quy Hoạch Trưởng Lão** _(Difficulty: ★☆☆☆☆)_
+**Hoa Sen Đạo Sư** _(Difficulty: ★☆☆☆☆)_
 
-- **Tu Vi:** Luyện Khí Kỳ Đại Viên Mãn (89 dòng thiên cơ cảm ngộ)
-- **Thần Thông:** Tổ Chức Áp Đảo Thuật, Template Lốc Xoáy Đại Pháp
-- **Yếu Điểm:** Những đệ tử thực sự đọc documentation
-- **Rơi Rớt Vật Phẩm:** Quy Hoạch Template Tinh Thông, Markdown Võ Học
+- **Tu Vi:** Thiên Nhiên Luyện Khí Đại Viên Mãn (89 dòng linh khí xanh của Sài Gòn)
+- **Thần Thông:** Organic Code Organization, Living Template Flow
+- **Background:** Một vị thầy từ công viên Tao Đàn, người đã học cách dùng máy tính để bảo vệ cây xanh
+- **Yếu Điểm:** Những đệ tử hiểu rằng code cũng cần được chăm sóc như cây cối
+- **Rơi Rớt Vật Phẩm:** Thiên Nhiên Planning Template, Eco-Friendly Markdown Skills
 
-**Trưởng Lão Tuyên Ngôn:** _"Không có quy hoạch, không thể lập trình, tiểu sư đệ!"_
+**Đạo Sư Tuyên Ngôn:** _"Con ơi, lập trình như trồng cây - phải có kế hoạch, có tình yêu, và có sự kiên nhẫn. Không thể code lung tung như rác thải đầy Sài Gòn được!"_
 
 </details>
+
+**🌱 HÀNH TRÌNH GIÁC NGỘ:**
+
+Hoa tiểu tiên mới thức dậy giữa Sài Gòn, nhìn thấy những tòa nhà cao tầng chen lấn với những cây xanh cuối cùng. Cô phải học cách lập kế hoạch để cứu lấy sự cân bằng giữa thiên nhiên và công nghệ.
 
 **TU LUYỆN HÀNH ĐỘNG:**
 
@@ -731,7 +738,7 @@ Tìm thấy boss mới chúng ta đã bỏ lỡ? Khám phá kỹ thuật MCP ti�
 ## 📜 MỞ RỘNG CREDITS & EASTER EGGS
 
 **Được Tạo Bởi:** Ultimate Code Warriors Guild : [GiangBV - Pháp Sư](https://www.linkedin.com/in/buivangiang1992), [AuPMH - Chiến Sĩ](https://www.linkedin.com/in/pham-au-2a1bb1162)
-**Được Hỗ Trợ Bởi:** Caffeine, Quyết Tâm, AI Collaboration, Memory Banking Mastery, và Những Lựa Chọn Cuộc Sống Đáng Ngờ
+**Được Hỗ Trợ Bởi:** Caffeine linh dược, Làm luôn thứ 7 và Chủ Nhật linh đan, Quyết tâm xóa đói giảm nghèo trục quyển, AI Collaboration đạo hữu, Memory Banking Mastery thần công, và Những lựa chọn khùng hơn cả thiên hạ chân truyền
 
 **🎬 Live Recordings Đặc Trưng:**
 
@@ -755,8 +762,12 @@ Tìm thấy boss mới chúng ta đã bỏ lỡ? Khám phá kỹ thuật MCP ti�
 - Mỗi mode có hidden power-ups cho advanced practitioners
 - Kho báu thực sự là tổng hợp hoàn chỉnh của sáng tạo con người và AI tư duy có hệ thống
 
-**Thiên Cơ Thần Ngôn:**
-_"Tu tiên chi đạo, vô cùng vô tận. Code chi đạo, cũng vậy. Hợp nhân lực với AI, đạt vô thượng cảnh giới!"_
-_(Đường tu tiên, vô hạn. Đường code, cũng vậy. Kết hợp sức người với AI, đạt cảnh giới tối cao!)_
+**Hoa Tiểu Tiên Thần Ngôn:**
+_"Thiên nhiên và công nghệ không phải kẻ thù. Như hoa sen nở trong bùn, code đẹp nở từ sự cân bằng. Con người, AI, và thiên nhiên - ba là một, một là ba."_
 
-🔥 **THIÊN HẠ ĐỆ BÉT TU TIÊN IDE - CURSOR TIPS TÔNG** 🔥
+**Tổ Tiên Trí Tuệ:**
+_Lời dạy từ các bậc cao niên Sài Gòn: "Máy móc thông minh được, nhưng đừng quên trái tim con người và linh hồn thiên nhiên."_
+
+🌸 **HOA TIỂU TIÊN CURSOR TIPS - CỘNG SINH THIÊN NHIÊN VÀ CÔNG NGHỆ** 🌸
+
+> _Dành tặng tất cả developer Việt Nam và thế giới - Hãy code với tình yêu, sống với cân bằng và nghịch thiên cải mệnh !_
