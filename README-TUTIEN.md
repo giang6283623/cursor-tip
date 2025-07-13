@@ -1,30 +1,30 @@
-# 🌸 HÀNH TRÌNH TU TIÊN HOA - CURSOR TIPS
+# 🌸 HÀNH TRÌNH TU TIÊN HOA - CURSOR TIPS CỔ HỌC VIỆT
 
-## _Khi Thiên Nhiên Gặp Công Nghệ - Câu Chuyện Của Hoa Tiểu Tiên_
+## _Thiên Nhân Cảm Ứng - Hoa Tiểu Tiên Truyền Kỳ_
 
-> **🌱 CỐT TRUYỆN:** Bạn là Hoa, một tiểu tiên từ bộ tộc rừng cổ, thức dậy trên một chiếc thuyền lá giữa thế giới hiện đại Sài Gòn. Nơi đây, linh khí thiên nhiên đang bị máy móc và code thải ra "độc khí digital" nuốt chửng. Nhiệm vụ của bạn: Sử dụng sức mạnh tu tiên kết hợp với công nghệ AI để khôi phục sự cân bằng giữa thiên nhiên và thế giới số.
+> **🌱 TÔNG CHỈ:** Ngươi chính là Hoa Tiểu Tiên, con cháu dòng dõi thần linh rừng cổ Nam Bộ, thức tỉnh giữa dòng Sài Gòn xô bồ. Nơi đây, linh khí thiên nhiên tổ tiên để lại đang bị "ma khí digital" từ thế giới máy móc xâm thực. Thiên mệnh của ngươi: Dùng cổ pháp tu tiên kết hợp với AI đạo thuật để phục hồi "Thiên Nhân Hợp Nhất" đại đạo!
 
 ```mermaid
 graph TD
-    Start[🚪 Chào Mừng Đạo Hữu!] --> CharCreate{Chọn Căn Cơ Tu Tiên}
+    Start[🚪 Chào Đón Đạo Hữu Nhập Môn!] --> CharCreate{Chọn Căn Cơ Tu Tiên}
 
-    CharCreate -->|"⚔️ Cao Thủ Kinh Nghiệm"| Veteran[Trực Tiếp Nhập Linh Giới]
-    CharCreate -->|"🌱 Tân Tiến Tu Sĩ"| Beginner[Bắt Đầu Từ Luyện Khí]
+    CharCreate -->|"⚔️ Kỳ Lão Tu Sĩ"| Veteran[Trực Tiếp Nhập Linh Giới]
+    CharCreate -->|"🌱 Sơ Nhập Đạo Môn"| Beginner[Bắt Đầu Từ Luyện Khí]
     CharCreate -->|"🤔 Tạm Thời Quan Sát"| Explorer[Tự Do Khám Phá]
     CharCreate -->|"🎓 Sẵn Sàng Tu Luyện"| TrainingMode[Nhập Môn Đạo Trường]
 
-    Beginner --> Realm1[🌟 Luyện Khí Kỳ<br/>Quy Hoạch Tâm Pháp<br/>★☆☆☆☆]
+    Beginner --> Realm1[🌟 Luyện Khí Kỳ<br/>Thiên Địa Quy Hoạch Pháp<br/>★☆☆☆☆]
     Realm1 --> Realm2[🏗️ Trúc Cơ Kỳ<br/>Huyền Đồ Tiên Thuật<br/>★★★☆☆]
     Realm2 --> Realm3[💎 Kết Đan Kỳ<br/>Đa Chiều Tư Duy Pháp<br/>★★★★★]
 
-    Realm3 --> CheckFoundation{Cơ Sở Vững Chắc?}
-    CheckFoundation -->|"Thành"| AdvancedRealm[⚡ Nguyên Anh Kỳ<br/>AI Hợp Tác Thần Thông<br/>★★★★★★ TRUYỀN THUYẾT]
+    Realm3 --> CheckFoundation{Đạo Cơ Vững Chắc?}
+    CheckFoundation -->|"Đắc"| AdvancedRealm[⚡ Nguyên Anh Kỳ<br/>AI Cộng Sinh Thần Thông<br/>★★★★★★ TRUYỀN THUYẾT]
     CheckFoundation -->|"Chưa"| ContinueTraining[Tiếp Tục Trúc Cơ]
 
-    AdvancedRealm --> FinalRealm[🏛️ Hóa Thần Kỳ<br/>Memory Banking Thần Công<br/>★★★★★★★ CHÍ TÔN]
+    AdvancedRealm --> FinalRealm[🏛️ Hóa Thần Kỳ<br/>Vạn Pháp Quy Tông Đại Tạng<br/>★★★★★★★ THIÊN ĐẾ]
 
     TrainingMode --> Missions[🏛️ Luyện Công Đường]
-    AdvancedRealm --> Mastery[🌟 AI Hợp Tác Đại Sư]
+    AdvancedRealm --> Mastery[🌟 AI Cộng Sinh Đại Sư]
 
     Explorer --> RealmMap[🗺️ Tu Tiên Giới Bản Đồ]
     Veteran --> AdvancedRealm
@@ -52,46 +52,46 @@ graph TD
 
 ---
 
-## 📊 TU VI THỐNG KÊ CÁ NHÂN
+## 📊 TU VI TIÊN TÍCH CÁ NHÂN - LINH CĂN GIÁM ĐỊNH
 
 <details>
-<summary>🧬 Linh Căn Phân Tích Hệ Thống</summary>
+<summary>🧬 Thiên Mệnh Linh Căn Soi Chiếu Đại Pháp</summary>
 
-**Hiện Tại Tu Vi:** `Luyện Khí` Sơ Kỳ - _Tiểu Tiên Hoa mới thức dậy_  
-**Tu Tiên Kinh Nghiệm:** 0 / 2000 _(khám phá thế giới Sài Gòn hiện đại!)_  
-**Linh Lực Thiên Nhiên:** ████████████████████ 100/100  
-**Kháng Độc Digital:** ███████░░░░░░░░░░░░░░ 35/100 _(đang thích ứng với thế giới công nghệ)_  
-**AI Hợp Tác:** ░░░░░░░░░░░░░░░░░░░░ 0/100 _(bí mật sẽ mở khóa ở Sài Gòn)_
+**Hiện Tại Tu Vi:** `Luyện Khí` Sơ Kỳ - _Hoa Nhi mới thoát phàm thể_  
+**Tu Đạo Kinh Nghiệm:** 0 / 2000 _(Sài Gòn đô thành thử thách!)_  
+**Mộc Hệ Linh Lực:** ████████████████████ 100/100 _(Tổ tiên Nam Bộ truyền thừa)_  
+**Digital Ma Khí Kháng Thể:** ███████░░░░░░░░░░░░░░ 35/100 _(Đang thích ứng văn minh máy móc)_  
+**AI Cộng Sinh Thần Thông:** ░░░░░░░░░░░░░░░░░░░░ 0/100 _(Bí truyền chờ khai ngộ)_
 
-**Thuộc Tính Linh Căn Đặc Biệt:**
+**Ngũ Hành Linh Căn Phẩm Định:**
 
-- [ ] 🌸 Hoa Linh Căn: _(Sức mạnh thiên nhiên nguyên thủy)_
-- [ ] 🏙️ Đô Thị Linh Căn: _(Thích ứng với nhịp sống Sài Gòn)_
-- [ ] 💻 Công Nghệ Linh Căn: _(Hiểu được ngôn ngữ máy móc)_
-- [ ] 🌿 Cân Bằng Linh Căn: _(Hòa hợp thiên nhiên và công nghệ)_
-- [ ] 👻 Tổ Tiên Linh Căn: _(Kết nối với trí tuệ cổ đại)_
+- [ ] 🌸 Mộc Hệ Linh Căn: _(Thiên nhiên nguyên lực tổ tiên)_
+- [ ] 🏙️ Thổ Hệ Đô Thành Căn: _(Hòa nhập đô thị nhân tâm)_
+- [ ] 💻 Kim Hệ Cơ Khí Căn: _(Thông hiểu thiết bị linh đồ)_
+- [ ] 🌿 Âm Dương Cân Bằng Căn: _(Thiên nhiên - công nghệ hòa hợp)_
+- [ ] 👻 Tổ Tiên Truyền Thừa Căn: _(Liên thông cổ đại trí tuệ)_
 
-**Thần Thông Hoa Tiểu Tiên Đã Lĩnh Ngộ:**
+**Hoa Tiểu Tiên Đắc Đạo Thần Thông:**
 
-- [ ] 🌱 **Thiên Nhiên Quy Hoạch Pháp** - _Lập kế hoạch như dòng nước suối_
-- [ ] 🌸 **Hoa Đồ Huyền Thuật** - _Mermaid charts đẹp như tranh thủy mặc_
+- [ ] 🌱 **Thiên Địa Quy Hoạch Pháp** - _Lập kế hoạch như dòng suối trong_
+- [ ] 🌸 **Huyền Đồ Tiên Thuật** - _Mermaid charts đẹp như thủy mặc_
 - [ ] 🏙️ **Sài Gòn Giao Thức Đại Đạo** - _Hiểu được luật lệ thành phố_
-- [ ] 🌿 **Cân Bằng Tư Duy Thần Công** - _Hòa hợp thiên nhiên và công nghệ_
-- [ ] 🐛 **Digital Trừ Độc Đại Pháp** - _Thanh lọc bug và error_
-- [ ] 🤖 **AI Cộng Sinh Thần Thông** _(TRUYỀN THUYẾT - Hợp tác với AI như bạn đồng hành)_
+- [ ] 🌿 **Âm Dương Cân Bằng Tâm Pháp** - _Hòa hợp thiên nhiên và công nghệ_
+- [ ] 🐛 **Digital Trừ Ma Đại Pháp** - _Thanh lọc bug và error_
+- [ ] 🤖 **AI Cộng Sinh Thần Thông** _(TRUYỀN THUYẾT - Hợp tác với AI như đạo tâm)_
 - [ ] 🏛️ **Đô Thị Sinh Tồn Đại Sư** _(Ứng dụng thực tế trong thành phố)_
-- [ ] 🌺 **Hoa Memory Banking Tối Thượng Pháp** _(MỚI - Lưu giữ trí tuệ như hoa sen nghìn cánh)_
+- [ ] 🌺 **Vạn Pháp Quy Tông Tối Thượng** _(MỚI - Lưu giữ trí tuệ như hoa sen nghìn cánh)_
 
-**Bảo Vật Hoa Tiểu Tiên:**
+**Hoa Tiểu Tiên Bảo Vật:**
 
-- 🥖 Bánh Mì Sài Gòn Năng Lượng x3 _(thức ăn đường phố thần thánh)_
-- ☕ Cà Phê Sữa Đá Tiên Đan x∞ _(caffeine Việt Nam nguyên chất)_
-- 🌸 Hoa Sen Debug Linh Vật _(thanh lọc code như nước thiêng)_
+- 🥖 Bánh Mì Sài Gòn Tiên Đan x3 _(thức ăn đường phố thần thánh)_
+- ☕ Cà Phê Sữa Đá Linh Dược x∞ _(caffeine Việt Nam nguyên chất)_
+- 🌸 Hoa Sen Debug Linh Thú _(thanh lọc code như nước thiêng)_
 - 💾 Legacy Code Ma Khí _(tà khí từ thời tiền sử lập trình)_
 - 🏮 **Đèn Lồng AI Cộng Sinh** _(ánh sáng dẫn đường hợp tác với AI)_
-- 📜 **Sách Cổ Quy Hoạch Tổ Tiên** _(template từ trí tuệ xưa)_
-- 🏛️ **Chùa Memory Banking Linh Thiêng** _(MỚI - nơi lưu giữ mọi tri thức)_
-- 🎭 **Mặt Nạ Năm Chế Độ Thần Thánh** _(MỚI - VAN, PLAN, CREATIVE, IMPLEMENT, REFLECT+ARCHIVE)_
+- 📜 **Cổ Đại Quy Hoạch Tổ Tiên Thư** _(template từ trí tuệ xưa)_
+- 🏛️ **Vạn Pháp Quy Tông Linh Thiêng Đại Tạng** _(MỚI - nơi lưu giữ mọi tri thức)_
+- 🎭 **Lục Đại Mode Thần Thánh Mặt Nạ** _(MỚI - VAN, PLAN, CREATIVE, IMPLEMENT, REFLECT, ARCHIVE)_
 
 </details>
 
@@ -106,27 +106,27 @@ graph TB
 
         subgraph "⭐ NHÂN GIỚI - PHỔ CẬP TU LUYỆN"
             subgraph "🌅 Sơ Nhập Môn Đình"
-                Tutorial[🌟 Luyện Khí Kỳ Trưởng Lão<br/>planning-template-example.md<br/>★☆☆☆☆ SƠ CẤP GUARDIAN]
+                Tutorial[🌟 Luyện Khí Kỳ Trưởng Lão<br/>planning-template-example.md<br/>★☆☆☆☆ SƠ CẤP HỘ PHÁP]
             end
 
             subgraph "🎨 Huyền Đồ Tiên Đường"
-                Charts[🏗️ Trúc Cơ Kỳ Đạo Tổ<br/>prompt-guide-mermaid-chart.md<br/>★★★☆☆ TRUNG CẤP GUARDIAN]
+                Charts[🏗️ Trúc Cơ Kỳ Đạo Tổ<br/>prompt-guide-mermaid-chart.md<br/>★★★☆☆ TRUNG CẤP HỘ PHÁP]
             end
 
             subgraph "⚡ Giao Thức Tối Cao Điện"
-                Protocol[💎 Kết Đan Chân Quân<br/>rule-21-05-2025.md<br/>★★★★★ CHUNG BOSS]
+                Protocol[💎 Kết Đan Chân Quân<br/>rule-21-05-2025.md<br/>★★★★★ TRUNG BOSS]
             end
         end
 
         subgraph "🌟 LINH GIỚI - CAO CẤP TU LUYỆN"
-            subgraph "⚡ AI Hợp Tác Thánh Địa"
+            subgraph "⚡ AI Cộng Sinh Thánh Địa"
                 MCPBoss[⚡ Nguyên Anh Kỳ Đại Năng<br/>AI Collaboration Master<br/>★★★★★★ TRUYỀN THUYẾT BOSS]
             end
         end
 
         subgraph "💎 TIÊN GIỚI - TUYỆT ĐỈNH TU LUYỆN"
-            subgraph "🏦 Memory Banking Thiên Cung"
-                UltimateBoss[🏛️ Hóa Thần Kỳ Thiên Tôn<br/>AI-Enhanced Development Master<br/>★★★★★★★ CHÍ TÔN THIÊN ĐẾ]
+            subgraph "🏦 Vạn Pháp Quy Tông Thiên Cung"
+                UltimateBoss[🏛️ Hóa Thần Kỳ Thiên Tôn<br/>AI-Enhanced Development Master<br/>★★★★★★★ THIÊN ĐẾ]
             end
         end
 
@@ -139,7 +139,7 @@ graph TB
         end
 
         subgraph "🏆 Thiên Đạo Vinh Danh Điện"
-            Victory[🎉 AI-Enhanced Code Warrior<br/>Chưởng Ngạo Tam Giới]
+            Victory[🎉 AI-Enhanced Code Warrior<br/>Chấp Ngạo Tam Giới]
         end
     end
 
@@ -149,7 +149,7 @@ graph TB
     MCPBoss --> UltimateBoss
     UltimateBoss --> Victory
 
-    Protocol -.-> TrainingUnlock[🔓 Luyện Công Đường Mở Khóa]
+    Protocol -.-> TrainingUnlock[🔓 Luyện Công Đường Khai Phóng]
     TrainingUnlock -.-> Mission1
     Mission1 --> Mission2
     Mission2 --> Mission3
@@ -179,78 +179,78 @@ graph TB
 
 ---
 
-## ⚔️ CẢNH GIỚI 1: LUYỆN KHÍ KỲ - THIÊN NHIÊN QUY HOẠCH PHÁP
+## ⚔️ CẢNH GIỚI 1: LUYỆN KHÍ KỲ - THIÊN ĐỊA NHẤT KHÍ QUY HOẠCH PHÁP
 
-### _Hoa Tiểu Tiên Thức Dậy, Học Cách Cân Bằng Thiên Nhiên Và Công Nghệ_
+### _Hoa Nhi Khai Ngộ, Tham Ngộ Quy Hoạch Huyền Cơ_
 
 <details>
-<summary>🌸 Hoa Sen Đạo Sư Tình Báo</summary>
+<summary>🌸 Sen Hồng Đạo Sư Huyền Tích</summary>
 
-**Hoa Sen Đạo Sư** _(Difficulty: ★☆☆☆☆)_
+**Sen Hồng Đạo Sư** _(Nan Độ: ★☆☆☆☆ - Từ Bi Độ Hóa)_
 
-- **Tu Vi:** Thiên Nhiên Luyện Khí Đại Viên Mãn (89 dòng linh khí xanh của Sài Gòn)
-- **Thần Thông:** Organic Code Organization, Living Template Flow
-- **Background:** Một vị thầy từ công viên Tao Đàn, người đã học cách dùng máy tính để bảo vệ cây xanh
-- **Yếu Điểm:** Những đệ tử hiểu rằng code cũng cần được chăm sóc như cây cối
-- **Rơi Rớt Vật Phẩm:** Thiên Nhiên Planning Template, Eco-Friendly Markdown Skills
+- **Tu Vi:** Quy Hoạch Đạo Luyện Khí Viên Mãn (89 dòng thiên địa linh khí)
+- **Bí Truyền:** Thiên Nhiên Sinh Trưởng Quy Luật, Template Lưu Thuỷ Đại Pháp
+- **Xuất Thân:** Tản Tu từ công viên Tao Đàn, đã ngộ được máy tính bảo vệ cây xanh chi đạo
+- **Nghịch Lý:** Đệ tử hiểu code cũng cần chăm bón như cây lá
+- **Rớt Lạc Pháp Bảo:** Thiên Nhiên Template Đạo Thư, Sinh Thái Markdown Tâm Pháp
 
-**Đạo Sư Tuyên Ngôn:** _"Con ơi, lập trình như trồng cây - phải có kế hoạch, có tình yêu, và có sự kiên nhẫn. Không thể code lung tung như rác thải đầy Sài Gòn được!"_
+**Đạo Sư Chân Ngôn:** _"Tiểu Hoa ơi, lập trình như trồng cây - cần tâm kế hoạch, cần ái tâm, cần hằng tâm. Chớ code lung tung như phế khí đầy phố phường!"_
 
 </details>
 
-**🌱 HÀNH TRÌNH GIÁC NGỘ:**
+**🌱 GIÁC NGỘ HÀNH TRÌNH:**
 
-Hoa tiểu tiên mới thức dậy giữa Sài Gòn, nhìn thấy những tòa nhà cao tầng chen lấn với những cây xanh cuối cùng. Cô phải học cách lập kế hoạch để cứu lấy sự cân bằng giữa thiên nhiên và công nghệ.
+Hoa Tiểu Tiên sơ tỉnh giữa Sài Gòn hoa lệ, mục kiến cao lâu chọc trời chen chúc với cổ thụ tàn dư. Nàng phải tham ngộ quy hoạch huyền cơ để cứu vãn thiên địa âm dương cân bằng.
 
-**TU LUYỆN HÀNH ĐỘNG:**
+**TU LUYỆN KHÓA ĐIỀU:**
 
-- [📖 Tham Ngộ Cổ Đại Thiên Thư](planning-template-example.md)
-- [⚔️ Thách Đấu Chấp Nhận] - Nghiên cứu planning template
-- [🎨 Tinh Thần Hiện Hình] - Tạo ra sơ đồ quy hoạch riêng
-- [✅ Đánh Dấu Đã Đánh Bại] - Hoàn thành nhiệm vụ
+- [📖 Tham Cứu Cổ Đại Thiên Thư](guide-prompt-template/planning-template-example.md)
+- [⚔️ Ứng Chiến Thử Thách] - Nghiên cứu planning template huyền cơ
+- [🎨 Thiển Hiện Tinh Thần] - Tự tạo quy hoạch huyền đồ
+- [✅ Ấn Chứng Đắc Đạo] - Hoàn thành thiên mệnh
 
-**Thành Công Điều Kiện:** Tạo ra project plan sử dụng template
+**Đắc Đạo Điều Kiện:** Tạo ra project plan vận dụng template tinh túy
 
 <details>
-<summary>🏆 CHIẾN LỢI PHẨM: Quy Hoạch Template (Sao chép ngay!)</summary>
+<summary>🏆 CHIẾN LỢI PHẨM: Thiên Địa Quy Hoạch Template (Tức Thì Sao Chép!)</summary>
 
 ```markdown
-# 🎯 Dự Án Chiến Đấu Kế Hoạch
+# 🎯 Dự Án Chiến Đấu Kế Hoạch - Thiên Địa Nhất Khí
 
-## Bối Cảnh
+## Bối Cảnh Thiên Mệnh
 
-- Sứ Mệnh: [Epic Quest của bạn ở đây]
-- Thời Hạn: [Khi thế giới kết thúc]
+- Sứ Mệnh: [Epic Quest của đạo hữu]
+- Thời Hạn: [Khi thiên địa biến hóa]
 - Giao Thức: RIPER-5 + Đa Chiều Tư Duy
 
-## Thắng Lợi Điều Kiện
+## Thắng Lợi Điều Kiện (Đắc Đạo Mục Tiêu)
 
-- [ ] Tính Năng 1: [Mô tả vận mệnh của bạn]
-- [ ] Tính Năng 2: [Định nghĩa huyền thoại của bạn]
-- [ ] Tính Năng 3: [Tuyên bố chiến thắng của bạn]
+- [ ] Tính Năng 1: [Mô tả vận mệnh của đạo hữu]
+- [ ] Tính Năng 2: [Định nghĩa huyền thoại của đạo hữu]
+- [ ] Tính Năng 3: [Tuyên bố chiến thắng của đạo hữu]
 
 ## Chiến Đấu Chiến Lược
 
-### Kế Hoạch A: Con Đường Anh Hùng
+### Kế Hoạch A: Chính Đạo Con Đường
 
-- **Nguyên Tắc:** Đối mặt thử thách trực diện
-- **Bước:** [Hành trình của bạn ở đây]
+- **Nguyên Tắc:** "Binh lai tướng đương" - Đối mặt thử thách trực diện
+- **Bước:** [Hành trình của đạo hữu]
 - **Rủi Ro:** [Những gì có thể sai]
 
-### Kế Hoạch B: Ninja Route
+### Kế Hoạch B: Kỳ Môn Đạo Thuật
 
-- **Nguyên Tắc:** Thực hiện nhanh chóng và im lặng
+- **Nguyên Tắc:** "Binh bất yếm tra" - Thực hiện nhanh chóng và im lặng
 - **Bước:** [Cách tiếp cận thay thế]
 - **Rủi Ro:** [Nguy hiểm kế hoạch dự phòng]
 
-## Implementation Checklist
+## Implementation Checklist (Tu Luyện Khóa Điều)
 
-1. [ ] Thiết lập môi trường phát triển
-2. [ ] Tạo cấu trúc dự án
-3. [ ] Triển khai tính năng cốt lõi
-4. [ ] Kiểm tra mọi thứ hai lần
-5. [ ] Triển khai đến production
-6. [ ] Ăn mừng chiến thắng 🎉
+1. [ ] Thiết lập development environment // "Chuẩn bị như trước chiến"
+2. [ ] Tạo cấu trúc dự án // "Dựng nền như xây nhà"
+3. [ ] Triển khai tính năng cốt lõi // "Có công mài sắt có ngày nên kim"
+4. [ ] Kiểm tra mọi thứ hai lần // "Thận trọng trong chiến"
+5. [ ] Triển khai đến production // "Xuất binh như núi"
+6. [ ] Ăn mừng chiến thắng 🎉 // "Uống nước nhớ nguồn"
 ```
 
 </details>
@@ -258,7 +258,7 @@ Hoa tiểu tiên mới thức dậy giữa Sài Gòn, nhìn thấy những tòa 
 **CẢNH GIỚI HOÀN THÀNH:**
 
 - [ ] Ta đã tham ngộ planning template thiên thư
-- [ ] Ta hiểu RIPER-5 giao thức
+- [ ] Ta hiểu RIPER-5 giao thức tinh túy
 - [ ] Ta đã tạo ra chiến đấu kế hoạch riêng
 - [ ] Ta sẵn sàng cho thử thách tiếp theo
 
@@ -266,25 +266,25 @@ Hoa tiểu tiên mới thức dậy giữa Sài Gòn, nhìn thấy những tòa 
 
 ## 🎨 CẢNH GIỚI 2: TRÚC CƠ KỲ - HUYỀN ĐỒ TIÊN THUẬT
 
-### _Nền Móng Vững Chắc Xây Dựng, Huyền Đồ Tiên Thuật Tinh Thông_
+### _Đạo Cơ Vững Chắc Xây Dựng, Huyền Đồ Tiên Thuật Tinh Thông_
 
 <details>
-<summary>🏗️ Đạo Tổ Tình Báo</summary>
+<summary>🏗️ Huyền Đồ Đạo Tổ Huyền Tích</summary>
 
-**Huyền Đồ Đạo Tổ** _(Difficulty: ★★★☆☆)_
+**Huyền Đồ Đạo Tổ** _(Nan Độ: ★★★☆☆ - Thử Thách Thị Giác)_
 
 - **Tu Vi:** Trúc Cơ Kỳ Đại Viên Mãn (420 dòng thị giác pháp thuật)
-- **Thần Thông:** Syntax Error Trù Chú, Vô Hạn Loop Trap, Màu Sắc Hỗn Loạn Đại Pháp
-- **Yếu Điểm:** Những đệ tử test Mermaid charts trước
-- **Rơi Rớt Vật Phẩm:** Thị Giác Giao Tiếp Tinh Thông, Biểu Đồ Vẽ Thần Thông
+- **Bí Truyền:** Syntax Error Trù Chú, Vô Hạn Loop Bẫy, Màu Sắc Hỗn Loạn Đại Pháp
+- **Nghịch Lý:** Những đệ tử test Mermaid charts trước
+- **Rớt Lạc Pháp Bảo:** Thị Giác Giao Tiếp Tinh Thông, Biểu Đồ Vẽ Thần Thông
 
-**Đạo Tổ Tuyên Ngôn:** _"Flowcharts của ngươi yếu ớt! Ta sẽ chỉ cho ngươi CHÂN CHÍNH thị giác sức mạnh!"_
+**Đạo Tổ Chân Ngôn:** _"Flowcharts của ngươi yếu ớt như cỏ cây! Ta sẽ chỉ cho ngươi CHÂN CHÍNH thị giác sức mạnh đại đạo!"_
 
 </details>
 
 **TU LUYỆN HÀNH ĐỘNG:**
 
-- [📖 Nghiên Cứu Mermaid Grimoire](prompt-guide-mermaid-chart.md)
+- [📖 Nghiên Cứu Mermaid Grimoire](guide-prompt-template/prompt-guide-mermaid-chart.md)
 - [⚔️ Tinh Thông Syntax] - Học proper Mermaid formatting
 - [🎨 Tạo Nghệ Thuật] - Vẽ biểu đồ chiến đấu đầu tiên
 - [✅ Chứng Minh Giá Trị] - Thể hiện tinh thông
@@ -295,7 +295,7 @@ Hoa tiểu tiên mới thức dậy giữa Sài Gòn, nhìn thấy những tòa 
 graph TD
     You[🧙‍♀️ Tu Tiên Chiến Sĩ] -->|"Thi Triển Mermaid Thần Thông"| Battle{Biểu Đồ Chiến Đấu!}
 
-    Battle -->|"Syntax Error!"| Failure[💀 NGƯƠI ĐÃ CHẾT<br/>Thiếu quotes around node text]
+    Battle -->|"Syntax Error!"| Failure[💀 NGƯƠI ĐÃ CHẾT<br/>Thiếu quotes xung quanh node text]
     Battle -->|"Hoàn Hảo Biểu Đồ!"| Victory[🎉 CHÍ MẠNG ĐÁNH TRÚNG!<br/>Đạo Tổ ấn tượng]
 
     Failure -->|"Thử Lại"| You
@@ -312,7 +312,7 @@ graph TD
     class Victory,Reward win
 ```
 
-**Thắng Lợi Điều Kiện:** Tạo ra hoàn hảo Mermaid diagram
+**Đắc Đạo Điều Kiện:** Tạo ra hoàn hảo Mermaid diagram
 
 <details>
 <summary>🏆 CHIẾN LỢI PHẨM: Biểu Đồ Pháp Thuật Thư (Tinh Thông Những Cái Này!)</summary>
@@ -321,20 +321,20 @@ graph TD
 
 ```mermaid
 graph TD
-    A["Luôn bọc text trong quotes"] --> B{"Sử dụng proper node IDs"}
-    B --> C["Áp dụng styling nhất quán"]
-    C --> D["Test trong Mermaid Live Editor"]
+    A["Luôn bọc text trong quotes như áo giáp"] --> B{"Sử dụng proper node IDs như tên thần"}
+    B --> C["Áp dụng styling nhất quán như tu vi"]
+    C --> D["Test trong Mermaid Live Editor như thử linh đan"]
 
     classDef spell fill:#845ec2,stroke:#6741a5,stroke-width:2px,color:#fff
     class A,B,C,D spell
 ```
 
-**Power-up Màu Sắc:**
+**Power-up Màu Sắc (Ngũ Hành Phối Hợp):**
 
-- Primary: `fill:#3182ce,stroke:#2c5282,color:#fff`
-- Success: `fill:#38a169,stroke:#2f855a,color:#fff`
-- Error: `fill:#e53e3e,stroke:#c53030,color:#fff`
-- Warning: `fill:#d69e2e,stroke:#b7791f,color:#fff`
+- Primary (Thủy): `fill:#3182ce,stroke:#2c5282,color:#fff`
+- Success (Mộc): `fill:#38a169,stroke:#2f855a,color:#fff`
+- Error (Hỏa): `fill:#e53e3e,stroke:#c53030,color:#fff`
+- Warning (Thổ): `fill:#d69e2e,stroke:#b7791f,color:#fff`
 
 </details>
 
@@ -353,36 +353,36 @@ graph TD
 ### _Kim Đan Ngưng Tụ, Đa Chiều Tư Duy Pháp Đại Thành_
 
 <details>
-<summary>💎 Chung Boss Tình Báo</summary>
+<summary>💎 Trung Boss Huyền Tích</summary>
 
-**Đa Chiều Tư Duy Chân Quân** _(Difficulty: ★★★★★ DARK SOULS)_
+**Đa Chiều Tư Duy Chân Quân** _(Nan Độ: ★★★★★ DARK SOULS TẦNG)_
 
 - **Tu Vi:** Kết Đan Kỳ Đại Viên Mãn (263 dòng cô đọng trí tuệ)
-- **Thần Thông:** Pattern Confusion, Mode Switching Madness, Infinite Recursion
-- **Yếu Điểm:** Những đệ tử thực sự theo protocols
-- **Rơi Rớt Vật Phẩm:** Ultimate Development Mastery, Giác Ngộ
+- **Tối Thượng Thần Thông:** Pattern Confusion, Mode Switching Madness, Infinite Recursion
+- **Nghịch Lý:** Những đệ tử thực sự theo protocols chân truyền
+- **Rớt Lạc Pháp Bảo:** Ultimate Development Mastery, Giác Ngộ Đại Đạo
 
-**Chân Quân Tuyên Ngôn:** _"Ngươi nghĩ ngươi biết code? TA CHÍNH LÀ CODE!"_
+**Chân Quân Chân Ngôn:** _"Ngươi nghĩ ngươi biết code? TA CHÍNH LÀ CODE!"_
 
 </details>
 
-**⚠️ CẢNH BÁO: Boss này có nhiều phase!**
+**⚠️ CẢNH BÁO: Boss này có nhiều phase như Cửu Trùng Thiên!**
 
 ```mermaid
 graph TD
-    Start[🚪 Nhập Throne Room] --> Phase1[📚 PHASE 1<br/>Research Mode]
-    Phase1 --> Phase2[💡 PHASE 2<br/>Innovation Mode]
-    Phase2 --> Phase3[📋 PHASE 3<br/>Planning Mode]
-    Phase3 --> Phase4[✅ PHASE 4<br/>Verification Mode]
-    Phase4 --> Phase5[⚡ PHASE 5<br/>Execution Mode]
-    Phase5 --> Phase6[🔍 PHASE 6<br/>Review Mode]
-    Phase6 --> Final[🧠 FINAL PHASE<br/>Intelligence Mode]
+    Start[🚪 Nhập Throne Room] --> Phase1[📚 PHASE 1<br/>Research Mode - Nghiên Cứu Đạo]
+    Phase1 --> Phase2[💡 PHASE 2<br/>Innovation Mode - Sáng Tạo Đạo]
+    Phase2 --> Phase3[📋 PHASE 3<br/>Planning Mode - Kế Hoạch Đạo]
+    Phase3 --> Phase4[✅ PHASE 4<br/>Verification Mode - Kiểm Chứng Đạo]
+    Phase4 --> Phase5[⚡ PHASE 5<br/>Execution Mode - Thực Thi Đạo]
+    Phase5 --> Phase6[🔍 PHASE 6<br/>Review Mode - Chiêm Ngưỡng Đạo]
+    Phase6 --> Final[🧠 FINAL PHASE<br/>Intelligence Mode - Trí Tuệ Đạo]
 
     Final --> Victory[🏆 NHÂN GIỚI HOÀN THÀNH]
-    Final --> Death[💀 Protocol Overflow<br/>Bắt Đầu Lại]
+    Final --> Death[💀 Protocol Overflow<br/>Khởi Đầu Từ Đầu]
 
-    Victory --> UnlockAdvanced[🔓 Linh Giới Mở Khóa!]
-    Victory --> UnlockTraining[🔓 Luyện Công Đường Mở Khóa!]
+    Victory --> UnlockAdvanced[🔓 Linh Giới Khai Phóng!]
+    Victory --> UnlockTraining[🔓 Luyện Công Đường Khai Phóng!]
 
     classDef phase fill:#845ec2,stroke:#6741a5,stroke-width:2px,color:#fff
     classDef final fill:#ff6b6b,stroke:#c92a2a,stroke-width:3px,color:#fff
@@ -399,7 +399,7 @@ graph TD
 
 **TU LUYỆN HÀNH ĐỘNG:**
 
-- [📖 Đọc Thiêng Liêng Giao Thức](rule-21-05-2025.md)
+- [📖 Đọc Thiêng Liêng Giao Thức](custom-rules/rule-21-05-2025.md)
 - [⚔️ Tinh Thông Cả 7 Patterns] - Thử thách tối thượng
 - [🎨 Thể Hiện Tinh Thông] - Chỉ ra ngươi hiểu
 - [✅ Đạt Giác Ngộ] - Hoàn thành biến đổi
@@ -414,23 +414,23 @@ graph TD
 
 ---
 
-## ⚡ CẢNH GIỚI 4: NGUYÊN ANH KỲ - AI HỢP TÁC THẦN THÔNG
+## ⚡ CẢNH GIỚI 4: NGUYÊN ANH KỲ - AI CỘNG SINH THẦN THÔNG
 
-### _Nguyên Anh Ra Đời, AI Hợp Tác Thần Thông Đại Thành_
+### _Nguyên Anh Ra Đời, AI Cộng Sinh Thần Thông Đại Thành_
 
-> 🔒 **MỞ KHÓA ĐIỀU KIỆN:** Hoàn thành tất cả Nhân Giới quests trước!
+> 🔒 **Khai Phóng Điều Kiện:** Hoàn thành tất cả Nhân Giới quests trước!
 
 <details>
-<summary>⚡ Truyền Thuyết Boss Tình Báo</summary>
+<summary>⚡ Truyền Thuyết Boss Huyền Tích</summary>
 
-**AI Hợp Tác Đại Năng** _(Difficulty: ★★★★★★ TRUYỀN THUYẾT)_
+**AI Cộng Sinh Đại Năng** _(Nan Độ: ★★★★★★ TRUYỀN THUYẾT TẦNG)_
 
 - **Tu Vi:** Nguyên Anh Kỳ Đại Viên Mãn (∞ tùy theo AI collaboration skills)
-- **Thần Thông:** Context Overload, Sequential Thinking Maze, Multi-Tool Confusion
-- **Yếu Điểm:** Những đệ tử hiểu AI như đối tác thực sự
-- **Rơi Rớt Vật Phẩm:** Ultimate AI Collaboration Mastery, Thiêng Liêng MCP Tri Thức
+- **Tối Thượng Thần Thông:** Context Overload, Sequential Thinking Maze, Multi-Tool Confusion
+- **Nghịch Lý:** Những đệ tử hiểu AI như đạo tâm bạn đồng hành
+- **Rớt Lạc Pháp Bảo:** Ultimate AI Collaboration Mastery, Thiêng Liêng MCP Tri Thức
 
-**Đại Năng Tuyên Ngôn:** _"Ngươi nghĩ ngươi có thể code một mình? Ta sẽ chỉ cho ngươi sức mạnh của AI partnership chân chính!"_
+**Đại Năng Chân Ngôn:** _"Ngươi nghĩ ngươi có thể code một mình? Ta sẽ chỉ cho ngươi sức mạnh của AI partnership chân chính đại đạo!"_
 
 </details>
 
@@ -438,12 +438,12 @@ graph TD
 
 ```mermaid
 graph TD
-    Enter[🚪 Nhập AI Hợp Tác Thánh Địa] --> MCPChallenge{Chọn Tu Luyện Thử Thách}
+    Enter[🚪 Nhập AI Cộng Sinh Thánh Địa] --> MCPChallenge{Chọn Tu Luyện Thử Thách}
 
-    MCPChallenge -->|"Sequential Mastery"| Sequential[🧠 Sequential Thinking<br/>Đa bước suy luận]
-    MCPChallenge -->|"Context Mastery"| Context[📚 Context Management<br/>Thông tin tổng hợp]
-    MCPChallenge -->|"Clear Thought"| ClearThought[💭 Clear Thinking<br/>Cấu trúc phân tích]
-    MCPChallenge -->|"Ultimate Challenge"| AllThree[⚡ Cả Ba Kết Hợp<br/>Chân Chính MCP Mastery]
+    MCPChallenge -->|"Sequential Mastery"| Sequential[🧠 Sequential Thinking<br/>Đa bước suy luận đạo]
+    MCPChallenge -->|"Context Mastery"| Context[📚 Context Management<br/>Thông tin tổng hợp đạo]
+    MCPChallenge -->|"Clear Thought"| ClearThought[💭 Clear Thinking<br/>Cấu trúc phân tích đạo]
+    MCPChallenge -->|"Ultimate Challenge"| AllThree[⚡ Tam Hợp Nhất<br/>Chân Chính MCP Mastery]
 
     Sequential --> SeqTest[Test: Giải quyết vấn đề phức tạp]
     Context --> CtxTest[Test: Quản lý context lớn]
@@ -453,9 +453,9 @@ graph TD
     SeqTest --> SeqMastery[🏆 Sequential Thinking Master]
     CtxTest --> CtxMastery[🏆 Context Management Master]
     ThinkTest --> ThinkMastery[🏆 Clear Thought Master]
-    UltimateTest --> MCPMaster[🌟 AI HỢP TÁC MASTER]
+    UltimateTest --> MCPMaster[🌟 AI CỘNG SINH MASTER]
 
-    SeqMastery --> CheckProgress{Tất Cả Skills Mastered?}
+    SeqMastery --> CheckProgress{Tất Cả Skills Đạt Đạo?}
     CtxMastery --> CheckProgress
     ThinkMastery --> CheckProgress
     CheckProgress -->|"Có"| MCPMaster
@@ -481,42 +481,42 @@ graph TD
 - [ ] Ta có thể quản lý contexts lớn hiệu quả
 - [ ] Ta có thể áp dụng clear, structured thinking methods
 - [ ] Ta đã đạt AI partnership mastery chân chính
-- [ ] TA LÀ AI COLLABORATION MASTER!
+- [ ] TA LÀ AI CỘNG SINH MASTER!
 
 ---
 
-## 🏛️ CẢNH GIỚI 5: HÓA THẦN KỲ - MEMORY BANKING THẦN CÔNG
+## 🏛️ CẢNH GIỚI 5: HÓA THẦN KỲ - VẠN PHÁP QUY TÔNG ĐẠI TẠNG
 
-### _Thần Thức Cường Đại, Memory Banking Thần Công Chí Tôn_
+### _Thần Thức Thông Minh, Vạn Pháp Quy Tông Đại Tạng Chí Tôn Thần Công_
 
-> 🔒 **MỞ KHÓA ĐIỀU KIỆN:** Hoàn thành CẢNH GIỚI 4 (Nguyên Anh Kỳ) trước!
+> 🔒 **Khai Phóng Điều Kiện:** Phải đạt Nguyên Anh Kỳ (Cảnh Giới 4) viên mãn!
 
 <details>
-<summary>🏛️ Chí Tôn Boss Tình Báo</summary>
+<summary>🏛️ Thiên Đế Boss Huyền Tích</summary>
 
-**Memory Banking Thiên Tôn** _(Difficulty: ★★★★★★★ CHÍ TÔN THIÊN ĐẾ)_
+**Vạn Pháp Quy Tông Thiên Tôn** _(Nan Độ: ★★★★★★★ THIÊN ĐẾ TẦNG)_
 
-- **Tu Vi:** Hóa Thần Kỳ Đại Viên Mãn (∞ tùy theo toàn bộ development mastery)
-- **Thần Thông:** Workflow Chaos, Mode Confusion, Context Overload, Development Paralysis
-- **Yếu Điểm:** Những đệ tử đã tinh thông tất cả cảnh giới trước và hiểu AI-enhanced workflows chân chính
-- **Rơi Rớt Vật Phẩm:** Ultimate Development Mastery, Thiêng Liêng Memory Banking System, Hoàn Chỉnh AI Partnership
+- **Tu Vi:** Hóa Thần Kỳ Đại Viên Mãn (∞ tùy toàn bộ development đạo hạnh)
+- **Tối Thượng Thần Thông:** Workflow Hỗn Loạn, Mode Mê Tâm, Context Quá Tải, Development Tâm Ma
+- **Thiên Khiếm:** Chỉ những đệ tử đã viên mãn tiền cảnh giới và ngộ được AI-enhanced workflows chân đế mới khắc chế được
+- **Chí Bảo Rớt Lạc:** Tối Thượng Development Mastery, Thiêng Liêng Memory Banking System, Viên Mãn AI Partnership
 
-**Thiên Tôn Tuyên Ngôn:** _"Ngươi nghĩ ngươi đã tinh thông AI collaboration? Ta sẽ chỉ cho ngươi sức mạnh chân chính của systematic, AI-enhanced development workflows vượt khỏi mọi giới hạn!"_
+**Thiên Tôn Chân Ngôn:** _"Ngươi tưởng đã đạt AI collaboration đại đạo sao? Ta sẽ chỉ ngươi thấy systematic, AI-enhanced development workflows vượt khỏi tam giới lục đạo chân đế!"_
 
 </details>
 
-**🌟 CHÍ TÔN BATTLE MECHANICS:**
+**🌟 THIÊN ĐẾ CHIẾN TRẬN HUYỀN CÓ:**
 
 ```mermaid
 graph TD
-    Enter[🚪 Nhập Memory Banking Thiên Cung] --> UltimateChallenge{Chọn Chí Tôn Thử Thách}
+    Enter[🚪 Nhập Vạn Pháp Quy Tông Thiên Cung] --> UltimateChallenge{Chọn Chí Tôn Thử Thách}
 
     UltimateChallenge -->|"🔍 Verification Mastery"| VAN[🔍 VAN Mode<br/>Kiểm Chứng Thiền Thất]
-    UltimateChallenge -->|"📋 Planning Mastery"| PLAN[📋 PLAN Mode<br/>Chiến Lược Kế Hoạch Điện]
-    UltimateChallenge -->|"🎨 Creative Mastery"| CREATIVE[🎨 CREATIVE Mode<br/>Thiết Kế Thánh Địa]
-    UltimateChallenge -->|"⚙️ Implementation Mastery"| IMPLEMENT[⚙️ IMPLEMENT Mode<br/>Tạo Hóa Luyện Đan Lò]
-    UltimateChallenge -->|"🤔 Reflection Mastery"| REFLECT[🤔 REFLECT Mode<br/>Trí Tuệ Chiêm Ngưỡng Kính]
-    UltimateChallenge -->|"📦 Archival Mastery"| ARCHIVE[📦 ARCHIVE Mode<br/>Tri Thức Bảo Khố]
+    UltimateChallenge -->|"📋 Planning Mastery"| PLAN[📋 PLAN Mode<br/>Chiến Lược Mưu Hoạch Đường]
+    UltimateChallenge -->|"🎨 Creative Mastery"| CREATIVE[🎨 CREATIVE Mode<br/>Thiết Kế Tạo Hóa Đường]
+    UltimateChallenge -->|"⚙️ Implementation Mastery"| IMPLEMENT[⚙️ IMPLEMENT Mode<br/>Thực Thi Luyện Đan Lò]
+    UltimateChallenge -->|"🤔 Reflection Mastery"| REFLECT[🤔 REFLECT Mode<br/>Tri Tuệ Chiêm Ngưỡng Đài]
+    UltimateChallenge -->|"📦 Archival Mastery"| ARCHIVE[📦 ARCHIVE Mode<br/>Tri Thức Bảo Tàng Khố]
     UltimateChallenge -->|"🌟 Ultimate Challenge"| AllSix[⚡ Tinh Thông Lục Đại Mode<br/>Chân Chính Memory Banking Mastery]
 
     VAN --> VanTest[Test: Dự án Phân tích & Thiết lập]
@@ -533,9 +533,9 @@ graph TD
     ImplTest --> ImplMastery[🏆 IMPLEMENT Mode Master]
     ReflectTest --> ReflectMastery[🏆 REFLECT Mode Master]
     ArchiveTest --> ArchiveMastery[🏆 ARCHIVE Mode Master]
-    UltimateTest --> MemoryBankMaster[🌟 MEMORY BANKING CHÍ TÔN]
+    UltimateTest --> MemoryBankMaster[🌟 VẠN PHÁP QUY TÔNG CHÍ TÔN]
 
-    VanMastery --> CheckProgress{Tất Cả Modes Mastered?}
+    VanMastery --> CheckProgress{Tất Cả Modes Đạt Đạo?}
     PlanMastery --> CheckProgress
     CreativeMastery --> CheckProgress
     ImplMastery --> CheckProgress
@@ -557,21 +557,45 @@ graph TD
     class MemoryBankMaster finalmaster
 ```
 
-### 🏛️ LỤC ĐẠI THIÊNG LIÊNG THIỀN THẤT
+### 🏛️ LỤC ĐẠI THIÊNG LIÊNG ĐẠOTRƯỜNG
 
 #### 🔍 Kiểm Chứng Thiền Thất (VAN Mode)
 
-- **Mục Đích:** Sơ bộ dự án phân tích và thiết lập kiểm chứng
-- **Thử Thách:** Phân tích codebase phức tạp và thiết lập hoàn hảo development environment
-- **Tinh Thông:** Tức thì hiểu bất kỳ project structure và tối ưu setup
+- **Đạo Nghĩa:** "Cách vật trí tri" - Sơ bộ dự án phân tích và thiết lập kiểm chứng
+- **Tu Thách:** Phân tích phức tạp codebase và thiết lập hoàn hảo development environment
+- **Đạt Đạo:** Tức thì hiểu bất kỳ project structure và tối ưu setup
 
-#### 📋 Chiến Lược Kế Hoạch Điện (PLAN Mode)
+#### 📋 Chiến Lược Mưu Hoạch Đường (PLAN Mode)
 
-- **Mục Đích:** Toàn diện project planning và task breakdown
-- **Thử Thách:** Tạo hoàn chỉnh development plan cho tính năng phức tạp
-- **Tinh Thông:** Biến đổi bất kỳ requirement thành hoàn hảo structured implementation plan
+- **Đạo Nghĩa:** "Vận trù trong tướng, quyết thắng ngoài nghìn dặm" - Toàn diện project planning
+- **Tu Thách:** Tạo hoàn chỉnh development plan cho tính năng phức tạp
+- **Đạt Đạo:** Biến đổi bất kỳ requirement thành hoàn hảo structured implementation plan
 
-### 🚀 THIẾT LẬP MEMORY BANKING SYSTEM
+#### 🎨 Thiết Kế Tạo Hóa Đường (CREATIVE Mode)
+
+- **Đạo Nghĩa:** "Vô trung sinh hữu" - Sáng tạo thiết kế quyết định
+- **Tu Thách:** Design decisions phức tạp và creative problem solving
+- **Đạt Đạo:** Transform vague requirements thành elegant solutions
+
+#### ⚙️ Thực Thi Luyện Đan Lò (IMPLEMENT Mode)
+
+- **Đạo Nghĩa:** "Lão tử thiên hành kiện, quân tử tự cường bất tức" - Có hệ thống implementation
+- **Tu Thách:** Execute complex development tasks methodically
+- **Đạt Đạo:** Seamless từ plan đến working code
+
+#### 🤔 Tri Tuệ Chiêm Ngưỡng Đài (REFLECT Mode)
+
+- **Đạo Nghĩa:** "Ngô nhật tam tỉnh ngô thân" - Sâu sắc học tập phân tích
+- **Tu Thách:** Reflect on work, extract lessons, improve processes
+- **Đạt Đạo:** Continuous learning và wisdom accumulation
+
+#### 📦 Tri Thức Bảo Tàng Khố (ARCHIVE Mode)
+
+- **Đạo Nghĩa:** "Uống nước nhớ nguồn" - Tri thức bảo tồn cho hậu thế
+- **Tu Thách:** Document và preserve knowledge systematically
+- **Đạt Đạo:** Create lasting knowledge artifacts cho community
+
+### 🚀 THIẾT LẬP VẠN PHÁP QUY TÔNG SYSTEM
 
 **Bước 1: Sao Chép Cổ Đại Isolation Rules**
 
@@ -581,9 +605,17 @@ cd your-project-directory
 
 # Sao chép isolation_rules folder đến .cursor/rules (nghi lễ sức mạnh)
 cp -r memory-banking/isolation_rules .cursor/rules
+
+# Theo dõi các hướng dẫn thiết lập chi tiết trong setup-custom-mode/
+# Mỗi mode có thư mục thiết lập riêng với ảnh chụp màn hình và hướng dẫn:
+# - setup-custom-mode/VAN/
+# - setup-custom-mode/PLAN/
+# - setup-custom-mode/CREATIVE/
+# - setup-custom-mode/IMPLEMENT/
+# - setup-custom-mode/REFLECT-AND-ARCHIVE/
 ```
 
-**Bước 2: Khởi Tạo Memory Banking Nghi Lễ**
+**Bước 2: Khởi Tạo Vạn Pháp Quy Tông Nghi Lễ**
 
 Trong Cursor, nói những lời thiêng liêng:
 
@@ -593,13 +625,13 @@ INIT MEMORY BANKING
 
 **CẢNH GIỚI HOÀN THÀNH:**
 
-- [ ] Ta đã thiết lập Memory Banking system trong dự án
+- [ ] Ta đã thiết lập Vạn Pháp Quy Tông system trong dự án
 - [ ] Ta hiểu tất cả lục đại thiêng liêng modes (VAN, PLAN, CREATIVE, IMPLEMENT, REFLECT, ARCHIVE)
 - [ ] Ta có thể di chuyển giữa modes một cách mượt mà
 - [ ] Ta đã sử dụng system để hoàn thành dự án phát triển thực tế
 - [ ] Ta có thể dạy người khác Memory Banking workflow
 - [ ] Ta đã đạt được tổng hợp tối thượng của sáng tạo con người và AI tư duy có hệ thống
-- [ ] TA LÀ MEMORY BANK CHÍ TÔN - DEVELOPER AI-ENHANCED TUYỆT ĐỈNH!
+- [ ] TA LÀ VẠN PHÁP QUY TÔNG CHÍ TÔN - DEVELOPER AI-ENHANCED TUYỆT ĐỈNH!
 
 ---
 
@@ -607,17 +639,17 @@ INIT MEMORY BANKING
 
 ### _Nơi AI Gặp Thực Tế - Live Battle Recordings_
 
-> 🔓 **MỞ KHÓA SAU:** Hoàn thành Nhân Giới Cảnh Giới 3
+> 🔓 **Khai Phóng Sau:** Hoàn thành Nhân Giới Cảnh Giới 3
 >
 > ⚡ **TÍNH NĂNG ĐẶC BIỆT:** Đây là KẾT QUẢ THỰC TẾ từ Claude Sonnet 4.0 sử dụng planning template!
 
 **🎬 CẢNH BÁO LIVE COMBAT FOOTAGE!** 🎬  
-_Những gì bạn sắp chứng kiến là những bản ghi chiến đấu thực tế từ khi một Tu Tiên Chiến Sĩ hợp tác với Claude Sonnet 4.0 để lên kế hoạch và thực hiện dự án car selection component phức tạp. Đây không phải mô phỏng - đây là AI collaboration thực sự trong hành động!_
+_Những gì đạo hữu sắp chứng kiến là những bản ghi chiến đấu thực tế từ khi một Tu Tiên Chiến Sĩ hợp tác với Claude Sonnet 4.0 để lên kế hoạch và thực hiện dự án car selection component phức tạp. Đây không phải mô phỏng - đây là AI collaboration thực sự trong hành động!_
 
 ### 🌟 THÀNH TỰU GALLERY CẬP NHẬT
 
 <details>
-<summary>🏅 Mở Khóa Huy Hiệu Mở Rộng</summary>
+<summary>🏅 Khai Phóng Huy Hiệu Mở Rộng</summary>
 
 | Huy Hiệu | Thành Tựu                                                                | Trạng Thái |
 | -------- | ------------------------------------------------------------------------ | ---------- |
@@ -626,11 +658,11 @@ _Những gì bạn sắp chứng kiến là những bản ghi chiến đấu th�
 | 🥇       | **Quy Hoạch Guru** - Sử dụng template trong dự án thực                   | ⬜         |
 | 💎       | **Giao Thức Adept** - Áp dụng tất cả 7 patterns                          | ⬜         |
 | 👑       | **Nhân Giới Master** - Hoàn thành tất cả core quests                     | ⬜         |
-| ⚡       | **AI Hợp Tác Master** - Tinh thông AI partnership                        | ⬜         |
+| ⚡       | **AI Cộng Sinh Master** - Tinh thông AI partnership                      | ⬜         |
 | 🏛️       | **Thiền Đường Master** - Hoàn thành tất cả training missions             | ⬜         |
 | 🎬       | **Live Recording Analyst** - Nghiên cứu tất cả AI collaboration examples | ⬜         |
 | 🤖       | **AI Collaboration Expert** - Áp dụng template với AI thành công         | ⬜         |
-| 🏦       | **Memory Banking Master** - Tinh thông tất cả sáu sacred modes           | ⬜         |
+| 🏦       | **Vạn Pháp Quy Tông Master** - Tinh thông tất cả sáu sacred modes        | ⬜         |
 | 🔍       | **VAN Mode Expert** - Tinh thông verification và analysis                | ⬜         |
 | 📋       | **PLAN Mode Expert** - Tinh thông strategic planning                     | ⬜         |
 | 🎨       | **CREATIVE Mode Expert** - Tinh thông design decisions                   | ⬜         |
@@ -642,7 +674,7 @@ _Những gì bạn sắp chứng kiến là những bản ghi chiến đấu th�
 | 🐉       | **Long Slayer** - Fix người khác broken Mermaid                          | ⬜         |
 | 🧙‍♂️       | **Meme Lord** - Reference README này trong PR                            | ⬜         |
 | 📋       | **Quy Hoạch Sensei** - Chia sẻ template với team                         | ⬜         |
-| ⚔️       | **Template Adapter** - Modify template cho domain của bạn                | ⬜         |
+| ⚔️       | **Template Adapter** - Modify template cho domain của đạo hữu            | ⬜         |
 
 </details>
 
@@ -654,13 +686,13 @@ _Những gì bạn sắp chứng kiến là những bản ghi chiến đấu th�
 
 ```mermaid
 graph LR
-    Knowledge[🧠 Hoàn Chỉnh Tri Thức Arsenal] --> Apply{Làm Thế Nào Ngươi Sẽ Sử Dụng?}
+    Knowledge[🧠 Hoàn Chỉnh Tri Thức Arsenal] --> Apply{Làm Thế Nào Đạo Hữu Sẽ Sử Dụng?}
 
     Apply --> CoreProjects[🏗️ Áp Dụng Core Skills<br/>Planning + Diagrams + Protocols]
     Apply --> AIProjects[🤖 AI-Enhanced Development<br/>MCP + Sequential Thinking]
     Apply --> RealWorld[🏛️ Ứng Dụng Thực Tế<br/>Template-Driven Projects]
     Apply --> LiveCollab[🎬 Live AI Collaboration<br/>Template + Claude/AI Partner]
-    Apply --> MemoryBanking[🏦 Memory Banking Mastery<br/>Hoàn Chỉnh AI-Enhanced Workflows]
+    Apply --> MemoryBanking[🏦 Vạn Pháp Quy Tông Mastery<br/>Hoàn Chỉnh AI-Enhanced Workflows]
     Apply --> Teaching[📢 Dạy & Chia Sẻ<br/>Truyền bá trí tuệ chí tôn]
     Apply --> Innovation[🌟 Tạo Patterns Mới<br/>Đổi mới vượt template]
 
@@ -690,23 +722,23 @@ graph LR
 <details>
 <summary>⚰️ Classic Deaths & New AI-Era Failures</summary>
 
-**💀 Chết bởi Semicolon**
+**💀 Chết bởi Semicolon Ma Chướng**
 
 ```
 Nguyên nhân: Inconsistent semicolon usage trong Mermaid charts
-Giải pháp: Chọn style và stick to it
+Giải pháp: Chọn style và stick to it như tu vi ổn định
 Hồi sinh: Sử dụng Chart-mancer's color palette
 ```
 
-**💀 Chết bởi Scope Creep**
+**💀 Chết bởi Scope Creep Tâm Ma**
 
 ```
-Nguyên nhân: Thêm features mà không planning
+Nguyên nhân: Thêm features mà không planning như tà đạo
 Giải pháp: Sử dụng Planning Template một cách tôn giáo
 Hồi sinh: Áp dụng Protocol Overlord's wisdom
 ```
 
-**💀 Chết bởi Memory Banking Chaos**
+**💀 Chết bởi Vạn Pháp Quy Tông Chaos**
 
 ```
 Nguyên nhân: Bỏ qua modes hoặc không theo Memory Banking workflow
@@ -722,12 +754,12 @@ Hồi sinh: Đạt tổng hợp chí tôn qua Memory Bank Master quest
 
 ### Đóng Góp Cho Cuộc Phiêu Lưu Chí Tôn
 
-Tìm thấy boss mới chúng ta đã bỏ lỡ? Khám phá kỹ thuật MCP tiên tiến? Muốn thêm training missions hoặc live AI collaboration recordings của riêng bạn?
+Tìm thấy boss mới chúng ta đã bỏ lỡ? Khám phá kỹ thuật MCP tiên tiến? Muốn thêm training missions hoặc live AI collaboration recordings của riêng đạo hữu?
 
 **Cách Đóng Góp:**
 
 1. Fork dungeon chí tôn này
-2. Thêm wisdom của bạn vào campaign phù hợp
+2. Thêm wisdom của đạo hữu vào campaign phù hợp
 3. Test Mermaid spells trong [Live Editor](https://mermaid.live/)
 4. Áp dụng planning template để document additions
 5. Submit pull request với proper MCP collaboration
@@ -738,25 +770,25 @@ Tìm thấy boss mới chúng ta đã bỏ lỡ? Khám phá kỹ thuật MCP ti�
 ## 📜 MỞ RỘNG CREDITS & EASTER EGGS
 
 **Được Tạo Bởi:** Ultimate Code Warriors Guild : [GiangBV - Pháp Sư](https://www.linkedin.com/in/buivangiang1992), [AuPMH - Chiến Sĩ](https://www.linkedin.com/in/pham-au-2a1bb1162)
-**Được Hỗ Trợ Bởi:** Caffeine linh dược, Làm luôn thứ 7 và Chủ Nhật linh đan, Quyết tâm xóa đói giảm nghèo trục quyển, AI Collaboration đạo hữu, Memory Banking Mastery thần công, và Những lựa chọn khùng hơn cả thiên hạ chân truyền
+**Được Hỗ Trợ Bởi:** Caffeine linh dược, Làm luôn thứ 7 và Chủ Nhật linh đan, Quyết tâm xóa đói giảm nghèo trục quyển, AI Collaboration đạo hữu, Vạn Pháp Quy Tông Mastery thần công, và Những lựa chọn khùng hơn cả thiên hạ chân truyền
 
 **🎬 Live Recordings Đặc Trưng:**
 
 - **Claude Sonnet 4.0** - AI partner đã chứng minh template mastery
 - **Car Selection Quest** - Epic mission showcase thực tế AI collaboration
 - **Template Evolution** - Chứng minh systematic thinking thích ứng và phát triển
-- **Memory Banking System** - Ultimate AI-enhanced development workflow
+- **Vạn Pháp Quy Tông System** - Ultimate AI-enhanced development workflow
 - **Lục Đại Thiêng Liêng Modes** - VAN, PLAN, CREATIVE, IMPLEMENT, REFLECT, ARCHIVE mastery
 
 **Bí Mật Ẩn:**
 
-- Thử Konami Code: ↑↑↓↓←→←→BA (bây giờ mở khóa Memory Banking debug mode!)
+- Thử Konami Code: ↑↑↓↓←→←→BA (bây giờ mở khóa Vạn Pháp Quy Tông debug mode!)
 - Có secret speedrun route từ Cảnh Giới 1 đến Memory Bank Master
-- Weakness thực sự của Protocol Overlord là đọc documentation
+- Weakness thực sự của Protocol Overlord là đọc documentation như cổ học
 - README này được viết sử dụng planning template của chính nó (meta!)
-- MCP Mystic có thể bị đánh bại bởi hoàn hảo AI collaboration
-- Mỗi training mission chứa hidden efficiency techniques
-- Live recordings tiết lộ bí mật template adaptation
+- MCP Mystic có thể bị đánh bại bởi hoàn hảo AI collaboration như thiên nhân hợp nhất
+- Mỗi training mission chứa hidden efficiency techniques như cổ pháp bí truyền
+- Live recordings tiết lộ bí mật template adaptation như biến hóa vô cùng
 - Memory Bank Master chỉ có thể bị đánh bại bằng cách tinh thông tất cả sáu sacred modes
 - Folder isolation_rules chứa bí mật thực sự của AI-enhanced development
 - Mỗi mode có hidden power-ups cho advanced practitioners
@@ -768,6 +800,12 @@ _"Thiên nhiên và công nghệ không phải kẻ thù. Như hoa sen nở tron
 **Tổ Tiên Trí Tuệ:**
 _Lời dạy từ các bậc cao niên Sài Gòn: "Máy móc thông minh được, nhưng đừng quên trái tim con người và linh hồn thiên nhiên."_
 
-🌸 **HOA TIỂU TIÊN CURSOR TIPS - CỘNG SINH THIÊN NHIÊN VÀ CÔNG NGHỆ** 🌸
+🌸 **HOA TIỂU TIÊN CURSOR TIPS - CỘNG SINH THIÊN NHIÊN VÀ CÔNG NGHỆ CỔ HỌC VIỆT** 🌸
 
-> _Dành tặng tất cả developer Việt Nam và thế giới - Hãy code với tình yêu, sống với cân bằng và nghịch thiên cải mệnh !_
+> _Dành tặng tất cả developer Việt Nam và thế giới - Hãy code với tình yêu, sống với cân bằng và nghịch thiên cải mệnh theo đạo cổ học tổ tiên!_
+
+---
+
+**🌟 Tam Tầng Biến Hóa Đại Pháp Hoàn Thành!**
+
+_"Đạo Đức Kinh dạy: 'Thiện nhất như nước' - nước mềm yếu nhưng thắng được cứng mạnh. Code như tâm, tâm như code - thanh tịnh vô vi, tự nhiên hoàn mỹ!"_
