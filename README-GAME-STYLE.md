@@ -678,6 +678,8 @@ Each mode represents a critical phase in the Memory Banking development workflow
 
 ### 🚀 SETTING UP THE MEMORY BANKING SYSTEM
 
+For detailed setup instructions, see: [`memory-banking/guide.md`](memory-banking/guide.md)
+
 **Step 1: Install the Complete Memory Banking Implementation**
 
 ```bash
