@@ -597,7 +597,9 @@ graph TD
 
 ### 🚀 THIẾT LẬP VẠN PHÁP QUY TÔNG SYSTEM
 
-**Bước 1: Sao Chép Cổ Đại Isolation Rules**
+Để nhập đạo Memory Bank, xem: [`memory-banking/guide.md`](memory-banking/guide.md)
+
+**Bước 1: Sao Chép Cổ Đại Thư Isolation Rules**
 
 ```bash
 # Di chuyển đến project root (đất thiêng)

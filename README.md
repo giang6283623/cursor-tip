@@ -172,6 +172,15 @@ graph TD
     class VanFeatures,PlanFeatures,CreativeFeatures,ImplFeatures,ReflectFeatures,ArchiveFeatures features
 ```
 
+### Setup Guide
+
+For detailed setup instructions, see: [`memory-banking/guide.md`](memory-banking/guide.md)
+
+**Quick Setup:**
+1. Copy isolation_rules to `.cursor/rules`
+2. Initialize with "INIT MEMORY BANKING" prompt
+3. Start your first session
+
 ### Implementation Files
 
 - **Core Rules**: `memory-banking/isolation_rules/Core/`
