@@ -419,5 +419,13 @@ Start with the foundation guides, practice with real examples, and gradually imp
 3. Implement `setup-custom-mode/` for advanced workflows
 4. Master `memory-banking/` for complete system integration
 
+---
+
 **Contributing:**
 This is an open-source project. Feel free to contribute improvements, examples, and enhancements to help the community grow.
+
+**Created by:** [GiangBV](https://www.linkedin.com/in/buivangiang1992), [AuPMH](https://www.linkedin.com/in/pham-au-2a1bb1162)
+
+**Powered by:** Caffeine, Determination, AI Collaboration, and Questionable Life Choices and Working Non-Stop on Saturdays and Sundays
+
+**Special Thanks:** [vanzan01](https://github.com/vanzan01), [https://smithery.ai/](https://smithery.ai/), MCP Protocol, Anthropic, and my best friend [Au Pham](https://www.linkedin.com/in/pham-au-2a1bb1162)
