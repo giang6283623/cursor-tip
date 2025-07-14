@@ -1,5 +1,7 @@
 # Cursor Tips - Complete Development Enhancement Guide
 
+> _"AI is the pen, you are the author."_
+
 ## Overview
 
 Cursor Tips is a comprehensive system for enhancing AI-assisted development workflows in the Cursor IDE. This guide provides practical tools, templates, and methodologies to improve code quality, project planning, and AI collaboration.
