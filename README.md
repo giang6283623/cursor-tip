@@ -14,6 +14,7 @@ graph TD
     Root --> Advanced[Advanced Features]
     Root --> Implementation[Implementation]
     Root --> Examples[Real Examples]
+    Root --> MoneyTips[Money-Saving Tips]
 
     Core --> GuideTemplate[guide-prompt-template/]
     Core --> CustomRules[custom-rules/]
@@ -23,6 +24,7 @@ graph TD
 
     Implementation --> SetupModes[setup-custom-mode/]
     Examples --> OutputPlanning[output-planning-4.0-generate-example/]
+    MoneyTips --> TipStrategy[tip-money-saving-strategy/]
 
     GuideTemplate --> Planning[Planning Templates]
     GuideTemplate --> Mermaid[Mermaid Chart Guides]
@@ -40,11 +42,13 @@ graph TD
     classDef advanced fill:#ffa64d,stroke:#cc7a30,color:white
     classDef implementation fill:#4dbb5f,stroke:#36873f,color:white
     classDef examples fill:#d94dbb,stroke:#a3378a,color:white
+    classDef moneytips fill:#22c55e,stroke:#16a34a,color:white
 
     class Core,GuideTemplate,CustomRules,Planning,Mermaid,Protocol core
     class Advanced,MemoryBanking,MCPTools,IsolationRules,Workflows advanced
     class Implementation,SetupModes,ModeSetup implementation
     class Examples,OutputPlanning,RealExamples examples
+    class MoneyTips,TipStrategy moneytips
 ```
 
 ## Getting Started
@@ -286,6 +290,49 @@ After setup, use these commands to activate modes:
 - `CREATIVE` - Design & Architecture
 - `IMPLEMENT` - Development Execution
 - `REFLECT-AND-ARCHIVE` - Reflection and ARCHIVE
+
+## Money-Saving Strategy (`tip-money-saving-strategy/`)
+
+### Claude Code Extension Setup for Cost-Effective Development
+
+This section provides a comprehensive money-saving approach to AI-assisted development:
+
+**Cost Optimization Strategy:**
+- Use **Gemini 2.5 Pro Preview** (free) for project planning
+- Use **Claude Code extension** for implementation
+- Avoid expensive Cursor Pro+ subscriptions ($20/month)
+
+### Complete Setup Guide
+
+Location: `tip-money-saving-strategy/guide.md`
+
+**Installation Steps:**
+1. Install Claude Code SDK: `npm install -g @anthropic-ai/claude-code`
+2. Download Claude Desktop from https://claude.ai/download
+3. Install Claude Code extension in Cursor
+4. Authenticate using `claude` command in terminal
+
+**Usage Workflow:**
+```mermaid
+graph LR
+    Plan[Plan with Gemini 2.5 Pro] --> Reference[Reference files with @ tags]
+    Reference --> Implement[Implement with Claude Code]
+    Implement --> Save[Save Money vs Pro+ subscription]
+
+    classDef free fill:#22c55e,stroke:#16a34a,color:white
+    classDef paid fill:#3b82f6,stroke:#1e40af,color:white
+    classDef savings fill:#eab308,stroke:#ca8a04,color:white
+
+    class Plan free
+    class Implement paid
+    class Save savings
+```
+
+**Key Benefits:**
+- **Cost Savings**: Avoid $20/month Cursor Pro+ subscription
+- **Free Planning**: Use Gemini 2.5 Pro Preview for architecture and planning
+- **Targeted AI Use**: Pay only for implementation when needed
+- **Context-Aware Development**: Reference planning files with @ tags
 
 ## MCP Tools (`setup-mcp-tool/`)
 

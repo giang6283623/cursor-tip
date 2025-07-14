@@ -122,6 +122,12 @@ graph TB
             end
         end
 
+        subgraph "💰 MONEY-SAVING CAMPAIGN"
+            subgraph "💳 The Frugal Developer's Sanctuary"
+                MoneyBoss[💰 The Budget Master<br/>Claude Code Extension Setup<br/>★★☆☆☆ COST-SAVING CHAMPION]
+            end
+        end
+
         subgraph "🏛️ TRAINING GROUNDS"
             subgraph "📚 Planning Temple"
                 Mission1[🏗️ Mission 1: Backend APIs<br/>output-planning-4.0-generate-example/<br/>step-1-car-stores-and-apis-planning.md]
@@ -141,6 +147,10 @@ graph TB
     MCPBoss --> UltimateBoss
     UltimateBoss --> Victory
 
+    Protocol -.-> MoneyQuest[💰 Money-Saving Quest Unlocked]
+    MoneyQuest --> MoneyBoss
+    MoneyBoss -.-> MCPBoss
+
     Protocol -.-> TrainingUnlock[🔓 Training Grounds Unlocked]
     TrainingUnlock -.-> Mission1
     Mission1 --> Mission2
@@ -158,6 +168,7 @@ graph TB
     classDef victory fill:#51cf66,stroke:#37b24d,stroke-width:3px,color:#fff
     classDef secret fill:#845ec2,stroke:#6741a5,stroke-width:2px,color:#fff
     classDef unlock fill:#f59e0b,stroke:#d97706,stroke-width:2px,color:#fff
+    classDef money fill:#10b981,stroke:#047857,stroke-width:2px,color:#fff
 
     class Tutorial tutorial
     class Charts intermediate
@@ -166,7 +177,8 @@ graph TB
     class Mission1,Mission2,Mission3 training
     class Victory victory
     class SecretPath secret
-    class TrainingUnlock unlock
+    class TrainingUnlock,MoneyQuest unlock
+    class MoneyBoss money
 ```
 
 ---
@@ -1169,6 +1181,131 @@ _You now understand that the template is not rigid—it's a flexible framework t
 - [ ] 📦 **Knowledge Preservation Engine** _(NEW - perfect documentation)_
 
 </details>
+
+---
+
+## 💰 BONUS QUEST: THE BUDGET MASTER _(MONEY-SAVING CHAMPION)_
+
+### _Master of Cost-Effective AI Development_
+
+> 🔒 **UNLOCK CONDITION:** Complete Core Campaign Quest 3 first!
+
+<details>
+<summary>💰 Budget Master Intel Report</summary>
+
+**The Budget Master** _(Difficulty: ★★☆☆☆ COST-SAVING CHAMPION)_
+
+- **HP:** Smart resource management and cost optimization
+- **Special Attacks:** Subscription Drain Blocker, Free Tool Mastery, Context Switch Efficiency
+- **Weakness:** Developers who think expensive equals better
+- **Drops:** Ultimate Cost Savings, Claude Code Extension Mastery, Free AI Planning Powers
+
+**Boss Quote:** _"Why pay for Pro+ when you can achieve greatness with smart tool combination? Let me show you the way of the frugal developer!"_
+
+</details>
+
+**💳 MONEY-SAVING BATTLE MECHANICS:**
+
+```mermaid
+graph TD
+    Enter[🚪 Enter Frugal Developer's Sanctuary] --> Challenge{Choose Your Savings Strategy}
+
+    Challenge -->|"Setup Path"| Setup[🛠️ Claude Code Extension Setup<br/>SDK + Desktop + Authentication]
+    Challenge -->|"Usage Path"| Usage[🎯 Smart Usage Workflow<br/>Gemini Planning + Claude Implementation]
+    Challenge -->|"Optimization Path"| Optimize[⚡ Cost Optimization<br/>@ Tag Referencing + Context Management]
+
+    Setup --> SetupTest[Test: Complete Claude Code installation and authentication]
+    Usage --> UsageTest[Test: Plan with Gemini + Implement with Claude Code]
+    Optimize --> OptimizeTest[Test: Use @ tags for efficient context management]
+
+    SetupTest --> SetupMastery[🏆 Installation Master]
+    UsageTest --> UsageMastery[🏆 Workflow Master]
+    OptimizeTest --> OptimizeMastery[🏆 Efficiency Master]
+
+    SetupMastery --> CheckSavings{All Strategies Mastered?}
+    UsageMastery --> CheckSavings
+    OptimizeMastery --> CheckSavings
+    CheckSavings -->|"Yes"| BudgetMaster[💰 BUDGET MASTER - MONEY-SAVING CHAMPION]
+    CheckSavings -->|"No"| Challenge
+
+    BudgetMaster --> Savings[💸 Save $240/year vs Cursor Pro+]
+
+    classDef money fill:#10b981,stroke:#047857,stroke-width:4px,color:#fff
+    classDef challenge fill:#3b82f6,stroke:#1e40af,stroke-width:2px,color:#fff
+    classDef test fill:#f59e0b,stroke:#d97706,stroke-width:2px,color:#fff
+    classDef mastery fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#fff
+    classDef ultimate fill:#ef4444,stroke:#dc2626,stroke-width:3px,color:#fff
+
+    class Enter,BudgetMaster,Savings money
+    class Setup,Usage,Optimize challenge
+    class SetupTest,UsageTest,OptimizeTest test
+    class SetupMastery,UsageMastery,OptimizeMastery mastery
+```
+
+**💰 BUDGET MASTER BATTLE ACTIONS:**
+
+- [📖 Study the Frugal Arts](tip-money-saving-strategy/guide.md)
+- [🛠️ Master Claude Code Setup] - Complete installation and authentication
+- [🎯 Master Smart Workflow] - Use Gemini for planning, Claude Code for implementation
+- [⚡ Master Cost Optimization] - Efficient context management with @ tags
+- [💰 Prove Ultimate Savings] - Demonstrate complete cost-effective workflow
+
+**Victory Condition:** Successfully set up and use Claude Code extension with Gemini planning to save money
+
+<details>
+<summary>🏆 BUDGET MASTER LOOT: The Frugal Developer's Arsenal</summary>
+
+**💰 Cost-Saving Powers:**
+
+- **Claude Code Extension Setup**: Complete installation guide with authentication
+- **Gemini 2.5 Pro Preview Integration**: Free planning and architecture design
+- **@ Tag Context Management**: Efficient file referencing for targeted AI assistance
+- **Smart Resource Allocation**: Pay only for implementation, not planning
+
+**🛠️ The Sacred Installation Ritual:**
+
+```bash
+# Step 1: Install the sacred SDK
+npm install -g @anthropic-ai/claude-code
+
+# Step 2: Download Claude Desktop from claude.ai/download
+# Step 3: Install Claude Code extension in Cursor
+# Step 4: Run authentication
+claude
+```
+
+**⚡ Ultimate Money-Saving Workflow:**
+
+```javascript
+// The Sacred Frugal Development Incantation
+const frugalWorkflow = {
+  planning: "Use Gemini 2.5 Pro Preview (FREE) for architecture and planning",
+  implementation: "Use Claude Code extension for targeted code implementation",
+  context: "Reference planning files with @ tags for efficient context",
+  savings: "Save $240/year by avoiding Cursor Pro+ subscription",
+  result: "Professional AI-enhanced development without breaking the budget",
+};
+```
+
+**💸 Ultimate Cost Benefits:**
+
+- **Avoid Cursor Pro+ subscription** ($20/month = $240/year)
+- **Use free Gemini 2.5 Pro Preview** for all planning and architecture
+- **Pay-per-use Claude Code** only when implementing
+- **Context-aware development** using @ tag file references
+- **Professional results** without enterprise costs
+
+</details>
+
+**BUDGET MASTER QUEST COMPLETION:**
+
+- [ ] I have installed Claude Code SDK and Desktop successfully
+- [ ] I have set up Claude Code extension in Cursor
+- [ ] I have completed authentication using `claude` command
+- [ ] I understand the cost-saving workflow (Gemini planning + Claude implementation)
+- [ ] I can use @ tags to reference planning files efficiently
+- [ ] I have calculated my annual savings vs Cursor Pro+ subscription
+- [ ] I AM THE BUDGET MASTER - FRUGAL DEVELOPER CHAMPION!
 
 ---
 
