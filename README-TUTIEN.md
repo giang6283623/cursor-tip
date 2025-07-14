@@ -130,6 +130,12 @@ graph TB
             end
         end
 
+        subgraph "💰 TIẾT KIỆM TU LUYỆN GIỚI"
+            subgraph "💳 Tiết Kiệm Tu Sĩ Thánh Địa"
+                MoneyBoss[💰 Tiết Kiệm Đại Sư<br/>Claude Code Extension Setup<br/>★★☆☆☆ TIẾT KIỆM CHÚA TỂ]
+            end
+        end
+
         subgraph "🏛️ LUYỆN CÔNG ĐƯỜNG"
             subgraph "📚 Quy Hoạch Thiền Đường"
                 Mission1[🏗️ Nhiệm Vụ 1: Backend APIs<br/>step-1-car-stores-and-apis]
@@ -149,6 +155,10 @@ graph TB
     MCPBoss --> UltimateBoss
     UltimateBoss --> Victory
 
+    Protocol -.-> MoneyQuest[💰 Tiết Kiệm Tu Luyện Khai Phóng]
+    MoneyQuest --> MoneyBoss
+    MoneyBoss -.-> MCPBoss
+
     Protocol -.-> TrainingUnlock[🔓 Luyện Công Đường Khai Phóng]
     TrainingUnlock -.-> Mission1
     Mission1 --> Mission2
@@ -166,6 +176,7 @@ graph TB
     classDef victory fill:#51cf66,stroke:#37b24d,stroke-width:3px,color:#fff
     classDef secret fill:#845ec2,stroke:#6741a5,stroke-width:2px,color:#fff
     classDef unlock fill:#f59e0b,stroke:#d97706,stroke-width:2px,color:#fff
+    classDef money fill:#10b981,stroke:#047857,stroke-width:2px,color:#fff
 
     class Tutorial tutorial
     class Charts intermediate
@@ -174,7 +185,8 @@ graph TB
     class Mission1,Mission2,Mission3 training
     class Victory victory
     class SecretPath secret
-    class TrainingUnlock unlock
+    class TrainingUnlock,MoneyQuest unlock
+    class MoneyBoss money
 ```
 
 ---
@@ -679,6 +691,130 @@ _Những gì đạo hữu sắp chứng kiến là những bản ghi chiến đ�
 | ⚔️       | **Template Adapter** - Modify template cho domain của đạo hữu            | ⬜         |
 
 </details>
+
+---
+
+## 💰 PHỤ QUEST: TIẾT KIỆM ĐẠI SƯ _(TIẾT KIỆM CHÚA TỂ)_
+
+### _Đại Sư Của Cost-Effective AI Development_
+
+> 🔒 **Khai Phóng Điều Kiện:** Hoàn thành Nhân Giới Cảnh Giới 3 trước!
+
+<details>
+<summary>💰 Tiết Kiệm Đại Sư Huyền Tích</summary>
+
+**Tiết Kiệm Đại Sư** _(Nan Độ: ★★☆☆☆ TIẾT KIỆM CHÚA TỂ)_
+
+- **Tu Vi:** Smart resource management và cost optimization đại thành
+- **Tối Thượng Thần Thông:** Subscription Drain Blocker, Free Tool Mastery, Context Switch Efficiency
+- **Nghịch Lý:** Những đệ tử nghĩ expensive equals better
+- **Rớt Lạc Pháp Bảo:** Ultimate Cost Savings, Claude Code Extension Mastery, Free AI Planning Powers
+
+**Đại Sư Chân Ngôn:** _"Tại sao phải trả tiền Pro+ khi ngươi có thể đạt greatness với smart tool combination? Ta sẽ chỉ ngươi con đường của frugal developer!"_
+
+</details>
+
+**💳 TIẾT KIỆM BATTLE MECHANICS:**
+
+```mermaid
+graph TD
+    Enter[🚪 Nhập Tiết Kiệm Tu Sĩ Thánh Địa] --> Challenge{Chọn Savings Strategy}
+    
+    Challenge -->|"Setup Path"| Setup[🛠️ Claude Code Extension Setup<br/>SDK + Desktop + Authentication]
+    Challenge -->|"Usage Path"| Usage[🎯 Smart Usage Workflow<br/>Gemini Planning + Claude Implementation]
+    Challenge -->|"Optimization Path"| Optimize[⚡ Cost Optimization<br/>@ Tag Referencing + Context Management]
+    
+    Setup --> SetupTest[Test: Hoàn thành Claude Code installation và authentication]
+    Usage --> UsageTest[Test: Plan với Gemini + Implement với Claude Code]
+    Optimize --> OptimizeTest[Test: Sử dụng @ tags cho efficient context management]
+    
+    SetupTest --> SetupMastery[🏆 Installation Master]
+    UsageTest --> UsageMastery[🏆 Workflow Master]
+    OptimizeTest --> OptimizeMastery[🏆 Efficiency Master]
+    
+    SetupMastery --> CheckSavings{Tất Cả Strategies Đạt Đạo?}
+    UsageMastery --> CheckSavings
+    OptimizeMastery --> CheckSavings
+    CheckSavings -->|"Có"| BudgetMaster[💰 TIẾT KIỆM ĐẠI SƯ - MONEY-SAVING CHAMPION]
+    CheckSavings -->|"Không"| Challenge
+    
+    BudgetMaster --> Savings[💸 Tiết Kiệm 6 triệu/năm vs Cursor Pro+]
+    
+    classDef money fill:#10b981,stroke:#047857,stroke-width:4px,color:#fff
+    classDef challenge fill:#3b82f6,stroke:#1e40af,stroke-width:2px,color:#fff
+    classDef test fill:#f59e0b,stroke:#d97706,stroke-width:2px,color:#fff
+    classDef mastery fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#fff
+    classDef ultimate fill:#ef4444,stroke:#dc2626,stroke-width:3px,color:#fff
+    
+    class Enter,BudgetMaster,Savings money
+    class Setup,Usage,Optimize challenge
+    class SetupTest,UsageTest,OptimizeTest test
+    class SetupMastery,UsageMastery,OptimizeMastery mastery
+```
+
+**💰 TIẾT KIỆM ĐẠI SƯ TU LUYỆN HÀNH ĐỘNG:**
+
+- [📖 Nghiên Cứu Frugal Arts](tip-money-saving-strategy/guide.md)
+- [🛠️ Tinh Thông Claude Code Setup] - Hoàn thành installation và authentication
+- [🎯 Tinh Thông Smart Workflow] - Sử dụng Gemini cho planning, Claude Code cho implementation
+- [⚡ Tinh Thông Cost Optimization] - Efficient context management với @ tags
+- [💰 Chứng Minh Ultimate Savings] - Thể hiện complete cost-effective workflow
+
+**Đắc Đạo Điều Kiện:** Thành công set up và sử dụng Claude Code extension với Gemini planning để tiết kiệm tiền
+
+<details>
+<summary>🏆 TIẾT KIỆM ĐẠI SƯ CHIẾN LỢI PHẨM: Frugal Developer's Arsenal</summary>
+
+**💰 Cost-Saving Thần Thông:**
+
+- **Claude Code Extension Setup**: Hoàn chỉnh installation guide với authentication
+- **Gemini 2.5 Pro Preview Tích Hợp**: Free planning và architecture design
+- **@ Tag Context Management**: Efficient file referencing cho targeted AI assistance
+- **Smart Resource Allocation**: Chỉ trả tiền cho implementation, không phải planning
+
+**🛠️ Thiêng Liêng Installation Nghi Lễ:**
+
+```bash
+# Bước 1: Install sacred SDK
+npm install -g @anthropic-ai/claude-code
+
+# Bước 2: Download Claude Desktop từ claude.ai/download
+# Bước 3: Install Claude Code extension trong Cursor
+# Bước 4: Chạy authentication
+claude
+```
+
+**⚡ Ultimate Money-Saving Workflow:**
+
+```javascript
+// Thiêng Liêng Frugal Development Thần Chú
+const frugalWorkflow = {
+  planning: "Sử dụng Gemini 2.5 Pro Preview (MIỄN PHÍ) cho architecture và planning",
+  implementation: "Sử dụng Claude Code extension cho targeted code implementation",
+  context: "Reference planning files với @ tags cho efficient context",
+  savings: "Tiết kiệm 6 triệu/năm tránh Cursor Pro+ subscription",
+  result: "Professional AI-enhanced development không phá sản ví tiền"
+};
+```
+
+**💸 Ultimate Cost Benefits:**
+- **Tránh Cursor Pro+ subscription** (500k VND/tháng = 6 triệu/năm)
+- **Sử dụng free Gemini 2.5 Pro Preview** cho tất cả planning và architecture
+- **Pay-per-use Claude Code** chỉ khi implementing
+- **Context-aware development** sử dụng @ tag file references
+- **Professional results** không cần enterprise costs
+
+</details>
+
+**TIẾT KIỆM ĐẠI SƯ QUEST HOÀN THÀNH:**
+
+- [ ] Ta đã install Claude Code SDK và Desktop thành công
+- [ ] Ta đã set up Claude Code extension trong Cursor
+- [ ] Ta đã hoàn thành authentication sử dụng `claude` command
+- [ ] Ta hiểu cost-saving workflow (Gemini planning + Claude implementation)
+- [ ] Ta có thể sử dụng @ tags để reference planning files efficiently
+- [ ] Ta đã tính toán annual savings vs Cursor Pro+ subscription
+- [ ] TA LÀ TIẾT KIỆM ĐẠI SƯ - FRUGAL DEVELOPER CHAMPION!
 
 ---
 
