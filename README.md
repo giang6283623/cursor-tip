@@ -15,6 +15,7 @@ graph TD
     Root --> Implementation[Implementation]
     Root --> Examples[Real Examples]
     Root --> MoneyTips[Money-Saving Tips]
+    Root --> ContextEng[Context Engineering]
 
     Core --> GuideTemplate[guide-prompt-template/]
     Core --> CustomRules[custom-rules/]
@@ -25,6 +26,7 @@ graph TD
     Implementation --> SetupModes[setup-custom-mode/]
     Examples --> OutputPlanning[output-planning-4.0-generate-example/]
     MoneyTips --> TipStrategy[tip-money-saving-strategy/]
+    ContextEng --> ContextGuide[context-engineer/]
 
     GuideTemplate --> Planning[Planning Templates]
     GuideTemplate --> Mermaid[Mermaid Chart Guides]
@@ -38,17 +40,22 @@ graph TD
 
     OutputPlanning --> RealExamples[Claude Sonnet 4.0 Examples]
 
+    ContextGuide --> PRDMethod[PRD-Based Documentation]
+    ContextGuide --> ContextFlow[Context Window Management]
+
     classDef core fill:#4da6ff,stroke:#0066cc,color:white
     classDef advanced fill:#ffa64d,stroke:#cc7a30,color:white
     classDef implementation fill:#4dbb5f,stroke:#36873f,color:white
     classDef examples fill:#d94dbb,stroke:#a3378a,color:white
     classDef moneytips fill:#22c55e,stroke:#16a34a,color:white
+    classDef contexteng fill:#9f39ff,stroke:#7c2d12,color:white
 
     class Core,GuideTemplate,CustomRules,Planning,Mermaid,Protocol core
     class Advanced,MemoryBanking,MCPTools,IsolationRules,Workflows advanced
     class Implementation,SetupModes,ModeSetup implementation
     class Examples,OutputPlanning,RealExamples examples
     class MoneyTips,TipStrategy moneytips
+    class ContextEng,ContextGuide,PRDMethod,ContextFlow contexteng
 ```
 
 ## Getting Started
@@ -334,6 +341,62 @@ graph LR
 - **Targeted AI Use**: Pay only for implementation when needed
 - **Context-Aware Development**: Reference planning files with @ tags
 
+## Context Engineering (`context-engineer/`)
+
+### Revolutionary AI Context Management
+
+Context Engineering represents a paradigm shift from traditional prompt engineering to comprehensive context window management. This methodology provides structured workflows for complex AI-assisted development projects.
+
+**Core Components:**
+
+- **PRD-Based Planning**: Product Requirements Document as foundation
+- **Four-File Documentation System**: Implementation Plan, Project Structure, UI/UX Doc, Bug Tracking  
+- **Context Window Management**: Strategic information organization for AI models
+- **Phase-Based Workflow**: Context Generation → Development Execution → Ongoing Development
+
+**Key Features:**
+
+```mermaid
+graph LR
+    Context[Context Engineering] --> PRD[PRD Creation]
+    Context --> Docs[Documentation System]
+    Context --> Rules[Rule Files]
+    Context --> Workflow[Structured Workflow]
+
+    PRD --> Features[Feature Analysis]
+    PRD --> Tech[Tech Stack Research]
+    
+    Docs --> Implementation[Implementation.md]
+    Docs --> Structure[project_structure.md]
+    Docs --> UIUX[UI_UX_doc.md]
+    Docs --> Bugs[Bug_tracking.md]
+    
+    Rules --> Generate[Generate Rule]
+    Rules --> Work[Work Rule]
+    
+    Workflow --> Phase1[Context Generation]
+    Workflow --> Phase2[Development Execution]
+    Workflow --> Phase3[Ongoing Development]
+
+    classDef contexteng fill:#9f39ff,stroke:#7c2d12,color:white
+    classDef component fill:#3b82f6,stroke:#1e40af,color:white
+    classDef feature fill:#10b981,stroke:#047857,color:white
+
+    class Context contexteng
+    class PRD,Docs,Rules,Workflow component
+    class Features,Tech,Implementation,Structure,UIUX,Bugs,Generate,Work,Phase1,Phase2,Phase3 feature
+```
+
+### Integration with Memory Banking
+
+Context Engineering complements the Memory Banking system by providing:
+- Enhanced project initialization workflows
+- Systematic documentation generation
+- Better context window management during development
+- Structured foundation for VAN and PLAN modes
+
+**Usage Guide**: See [`context-engineer/guide.md`](context-engineer/guide.md) for complete methodology
+
 ## MCP Tools (`setup-mcp-tool/`)
 
 ### Model Context Protocol Integration
@@ -378,7 +441,8 @@ graph TD
     Begin[Begin Journey] --> Foundation[Foundation Skills]
     Foundation --> Intermediate[Intermediate Techniques]
     Intermediate --> Advanced[Advanced Implementation]
-    Advanced --> Mastery[System Mastery]
+    Advanced --> Expert[Expert Mastery]
+    Expert --> Mastery[System Mastery]
 
     Foundation --> F1[Study guide-prompt-template/]
     Foundation --> F2[Practice with examples]
@@ -392,15 +456,19 @@ graph TD
     Advanced --> A2[Configure custom modes]
     Advanced --> A3[Integrate MCP tools]
 
-    Mastery --> M1[Master all 6 modes]
-    Mastery --> M2[Optimize workflows]
-    Mastery --> M3[Teach others]
+    Expert --> E1[Master Context Engineering]
+    Expert --> E2[PRD-based workflows]
+    Expert --> E3[Advanced context management]
+
+    Mastery --> M1[Master all 6 modes + Context Engineering]
+    Mastery --> M2[Optimize integrated workflows]
+    Mastery --> M3[Teach comprehensive methodology]
 
     classDef phase fill:#4da6ff,stroke:#0066cc,color:white
     classDef task fill:#4dbb5f,stroke:#36873f,color:white
 
-    class Begin,Foundation,Intermediate,Advanced,Mastery phase
-    class F1,F2,F3,I1,I2,I3,A1,A2,A3,M1,M2,M3 task
+    class Begin,Foundation,Intermediate,Advanced,Expert,Mastery phase
+    class F1,F2,F3,I1,I2,I3,A1,A2,A3,E1,E2,E3,M1,M2,M3 task
 ```
 
 ### Success Metrics
@@ -408,7 +476,8 @@ graph TD
 - **Foundation Level**: Successfully use planning templates and create Mermaid charts
 - **Intermediate Level**: Implement multi-dimensional thinking protocol effectively
 - **Advanced Level**: Master the 6-mode Memory Banking system
-- **Mastery Level**: Optimize workflows and collaborate seamlessly with AI
+- **Expert Level**: Implement Context Engineering workflows and PRD-based development
+- **Mastery Level**: Seamlessly integrate all methodologies for comprehensive AI-enhanced development
 
 ## Best Practices
 
@@ -465,8 +534,9 @@ Start with the foundation guides, practice with real examples, and gradually imp
 
 1. Review `guide-prompt-template/` for core concepts
 2. Study `output-planning-4.0-generate-example/` for practical applications
-3. Implement `setup-custom-mode/` for advanced workflows
-4. Master `memory-banking/` for complete system integration
+3. Learn `context-engineer/` for systematic project management
+4. Implement `setup-custom-mode/` for advanced workflows
+5. Master `memory-banking/` for complete system integration
 
 ---
 
