@@ -226,7 +226,7 @@ Hoa Tiểu Tiên sơ tỉnh giữa Sài Gòn hoa lệ, mục kiến cao lâu ch�
 
 **TU LUYỆN KHÓA ĐIỀU:**
 
-- [📖 Tham Cứu Cổ Đại Thiên Thư](guide-prompt-template/planning-template-example.md)
+- [📖 Tham Cứu Cổ Đại Thiên Thư](beginner/guide-prompt-template/planning-template-example.md)
 - [⚔️ Ứng Chiến Thử Thách] - Nghiên cứu planning template huyền cơ
 - [🎨 Thiển Hiện Tinh Thần] - Tự tạo quy hoạch huyền đồ
 - [✅ Ấn Chứng Đắc Đạo] - Hoàn thành thiên mệnh
@@ -306,7 +306,7 @@ Hoa Tiểu Tiên sơ tỉnh giữa Sài Gòn hoa lệ, mục kiến cao lâu ch�
 
 **TU LUYỆN HÀNH ĐỘNG:**
 
-- [📖 Nghiên Cứu Mermaid Grimoire](guide-prompt-template/prompt-guide-mermaid-chart.md)
+- [📖 Nghiên Cứu Mermaid Grimoire](beginner/guide-prompt-template/prompt-guide-mermaid-chart.md)
 - [⚔️ Tinh Thông Syntax] - Học proper Mermaid formatting
 - [🎨 Tạo Nghệ Thuật] - Vẽ biểu đồ chiến đấu đầu tiên
 - [✅ Chứng Minh Giá Trị] - Thể hiện tinh thông
@@ -421,7 +421,7 @@ graph TD
 
 **TU LUYỆN HÀNH ĐỘNG:**
 
-- [📖 Đọc Thiêng Liêng Giao Thức](custom-rules/rule-21-05-2025.md)
+- [📖 Đọc Thiêng Liêng Giao Thức](beginner/custom-rules/rule-21-05-2025.md)
 - [⚔️ Tinh Thông Cả 7 Patterns] - Thử thách tối thượng
 - [🎨 Thể Hiện Tinh Thông] - Chỉ ra ngươi hiểu
 - [✅ Đạt Giác Ngộ] - Hoàn thành biến đổi
@@ -498,7 +498,7 @@ graph TD
 
 **🔥 TRUYỀN THUYẾT KIẾN TRÚC SƯ TU LUYỆN HÀNH ĐỘNG:**
 
-- [📖 Nghiên Cứu Context Engineering Arts](context-engineer/guide.md)
+- [📖 Nghiên Cứu Context Engineering Arts](intermediate/context-engineer/guide.md)
 - [📋 Tinh Thông PRD Creation] - Học systematic project requirements documentation
 - [📚 Tinh Thông Documentation System] - Tứ đại thiên thư systematic approach
 - [⚙️ Tinh Thông Rule Engineering] - Generate và Work rule creation
@@ -740,7 +740,7 @@ graph TD
 
 ### 🚀 THIẾT LẬP VẠN PHÁP QUY TÔNG SYSTEM
 
-Để nhập đạo Memory Bank, xem: [`memory-banking/guide.md`](memory-banking/guide.md)
+Để nhập đạo Memory Bank, xem: [`advanced/memory-banking/guide.md`](advanced/memory-banking/guide.md)
 
 **Bước 1: Sao Chép Cổ Đại Thư Isolation Rules**
 
@@ -749,15 +749,15 @@ graph TD
 cd your-project-directory
 
 # Sao chép isolation_rules folder đến .cursor/rules (nghi lễ sức mạnh)
-cp -r memory-banking/isolation_rules .cursor/rules
+cp -r advanced/memory-banking/isolation_rules .cursor/rules
 
-# Theo dõi các hướng dẫn thiết lập chi tiết trong setup-custom-mode/
+# Theo dõi các hướng dẫn thiết lập chi tiết trong intermediate/setup-custom-mode/
 # Mỗi mode có thư mục thiết lập riêng với ảnh chụp màn hình và hướng dẫn:
-# - setup-custom-mode/VAN/
-# - setup-custom-mode/PLAN/
-# - setup-custom-mode/CREATIVE/
-# - setup-custom-mode/IMPLEMENT/
-# - setup-custom-mode/REFLECT-AND-ARCHIVE/
+# - intermediate/setup-custom-mode/VAN/
+# - intermediate/setup-custom-mode/PLAN/
+# - intermediate/setup-custom-mode/CREATIVE/
+# - intermediate/setup-custom-mode/IMPLEMENT/
+# - intermediate/setup-custom-mode/REFLECT-AND-ARCHIVE/
 ```
 
 **Bước 2: Khởi Tạo Vạn Pháp Quy Tông Nghi Lễ**
@@ -886,7 +886,7 @@ graph TD
 
 **💰 TIẾT KIỆM ĐẠI SƯ TU LUYỆN HÀNH ĐỘNG:**
 
-- [📖 Nghiên Cứu Frugal Arts](tip-money-saving-strategy/guide.md)
+- [📖 Nghiên Cứu Frugal Arts](advanced/tip-money-saving-strategy/guide.md)
 - [🛠️ Tinh Thông Claude Code Setup] - Hoàn thành installation và authentication
 - [🎯 Tinh Thông Smart Workflow] - Sử dụng Gemini cho planning, Claude Code cho implementation
 - [⚡ Tinh Thông Cost Optimization] - Efficient context management với @ tags

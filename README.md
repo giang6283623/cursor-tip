@@ -1,550 +1,650 @@
-# Cursor Tips - Complete Development Enhancement Guide
+# Cursor Tips - AI-Enhanced Development Mastery Guide
 
 > _"AI is the pen, you are the author."_
 
-## Overview
+## 🎯 What is Cursor Tips?
 
-Cursor Tips is a comprehensive system for enhancing AI-assisted development workflows in the Cursor IDE. This guide provides practical tools, templates, and methodologies to improve code quality, project planning, and AI collaboration.
+Cursor Tips is a comprehensive, level-based system for mastering AI-enhanced development workflows in the Cursor IDE. This guide transforms developers from AI beginners to expert practitioners through structured learning paths, practical tools, and proven methodologies.
 
-## Project Structure
+## 🗺️ Learning Journey Overview
 
 ```mermaid
 graph TD
-    Root[Cursor Tips Project] --> Core[Core Guides]
-    Root --> Advanced[Advanced Features]
-    Root --> Implementation[Implementation]
-    Root --> Examples[Real Examples]
-    Root --> MoneyTips[Money-Saving Tips]
-    Root --> ContextEng[Context Engineering]
-
-    Core --> GuideTemplate[guide-prompt-template/]
-    Core --> CustomRules[custom-rules/]
-
-    Advanced --> MemoryBanking[memory-banking/]
-    Advanced --> MCPTools[setup-mcp-tool/]
-
-    Implementation --> SetupModes[setup-custom-mode/]
-    Examples --> OutputPlanning[output-planning-4.0-generate-example/]
-    MoneyTips --> TipStrategy[tip-money-saving-strategy/]
-    ContextEng --> ContextGuide[context-engineer/]
-
-    GuideTemplate --> Planning[Planning Templates]
-    GuideTemplate --> Mermaid[Mermaid Chart Guides]
-
-    CustomRules --> Protocol[Multi-Dimensional Thinking Protocol]
-
-    MemoryBanking --> IsolationRules[Isolation Rules System]
-    MemoryBanking --> Workflows[6-Mode Workflow]
-
-    SetupModes --> ModeSetup[VAN/PLAN/CREATIVE/IMPLEMENT/REFLECT/ARCHIVE]
-
-    OutputPlanning --> RealExamples[Claude Sonnet 4.0 Examples]
-
-    ContextGuide --> PRDMethod[PRD-Based Documentation]
-    ContextGuide --> ContextFlow[Context Window Management]
-
-    classDef core fill:#4da6ff,stroke:#0066cc,color:white
-    classDef advanced fill:#ffa64d,stroke:#cc7a30,color:white
-    classDef implementation fill:#4dbb5f,stroke:#36873f,color:white
-    classDef examples fill:#d94dbb,stroke:#a3378a,color:white
-    classDef moneytips fill:#22c55e,stroke:#16a34a,color:white
-    classDef contexteng fill:#9f39ff,stroke:#7c2d12,color:white
-
-    class Core,GuideTemplate,CustomRules,Planning,Mermaid,Protocol core
-    class Advanced,MemoryBanking,MCPTools,IsolationRules,Workflows advanced
-    class Implementation,SetupModes,ModeSetup implementation
-    class Examples,OutputPlanning,RealExamples examples
-    class MoneyTips,TipStrategy moneytips
-    class ContextEng,ContextGuide,PRDMethod,ContextFlow contexteng
+    Start[🚀 Start Your Journey] --> Choose{Choose Your Path}
+    
+    Choose -->|"New to AI Development"| Beginner[🌱 Beginner Level]
+    Choose -->|"Some AI Experience"| Intermediate[🏗️ Intermediate Level] 
+    Choose -->|"Advanced AI User"| Advanced[🚀 Advanced Level]
+    
+    Beginner --> B1[📚 Planning Templates]
+    Beginner --> B2[🎨 Mermaid Charts]
+    Beginner --> B3[🧠 Core Protocols]
+    Beginner --> B4[💬 Prompt Optimization]
+    
+    Intermediate --> I1[🏗️ Context Engineering]
+    Intermediate --> I2[⚙️ Custom Mode Setup]
+    Intermediate --> I3[🔗 MCP Integration]
+    
+    Advanced --> A1[🏦 Memory Banking System]
+    Advanced --> A2[🎬 Real-World Examples]
+    Advanced --> A3[💰 Cost Optimization]
+    Advanced --> A4[🎭 Creative Applications]
+    
+    B4 --> Intermediate
+    I3 --> Advanced
+    A4 --> Master[🎓 AI Development Master]
+    
+    classDef start fill:#ff6b6b,stroke:#c92a2a,stroke-width:3px,color:#fff
+    classDef level fill:#4ecdc4,stroke:#26a69a,stroke-width:2px,color:#fff
+    classDef skill fill:#ffe66d,stroke:#ffc947,stroke-width:2px,color:#000
+    classDef master fill:#9f39ff,stroke:#7c2d12,stroke-width:3px,color:#fff
+    
+    class Start start
+    class Beginner,Intermediate,Advanced level
+    class B1,B2,B3,B4,I1,I2,I3,A1,A2,A3,A4 skill
+    class Master master
 ```
 
-## Getting Started
+---
 
-### Prerequisites
+## 🌱 Beginner Level - Foundation Skills
 
-- Cursor IDE installed
-- Basic understanding of AI-assisted development
-- Familiarity with Markdown and Mermaid charts
+*Perfect for developers new to AI-assisted development*
 
-### Quick Start Workflow
+<details>
+<summary><strong>📋 What You'll Learn (Click to expand)</strong></summary>
+
+- **Planning Templates**: Structured approach to project planning with AI
+- **Mermaid Charts**: Visual communication and diagram creation
+- **Core Protocols**: Multi-dimensional thinking methodology
+- **Prompt Optimization**: Better AI interaction techniques
+
+**Time Investment**: 2-4 hours  
+**Prerequisites**: Basic programming knowledge, Cursor IDE installed
+
+</details>
+
+### 🎯 Quick Start Guide
 
 ```mermaid
 graph LR
-    Start[Start Here] --> Learn[Learn Core Concepts]
-    Learn --> Practice[Practice with Examples]
-    Practice --> Implement[Implement Advanced Features]
-    Implement --> Master[Master the System]
-
-    Learn --> GuideTemplates[Study guide-prompt-template/]
-    Practice --> PlanningExamples[Review output-planning-4.0-generate-example/]
-    Implement --> SetupSystem[Setup setup-custom-mode/]
-    Master --> MemoryBank[Master memory-banking/]
-
-    classDef step fill:#4da6ff,stroke:#0066cc,color:white
-    classDef action fill:#4dbb5f,stroke:#36873f,color:white
-
-    class Start,Learn,Practice,Implement,Master step
-    class GuideTemplates,PlanningExamples,SetupSystem,MemoryBank action
+    Start[Start Here] --> Templates[📚 Planning Templates]
+    Templates --> Charts[🎨 Mermaid Charts]
+    Charts --> Protocols[🧠 Core Protocols]
+    Protocols --> Optimize[💬 Prompt Optimization]
+    Optimize --> Ready[✅ Ready for Intermediate]
+    
+    classDef step fill:#22c55e,stroke:#16a34a,color:white
+    classDef ready fill:#3b82f6,stroke:#1e40af,color:white
+    
+    class Start,Templates,Charts,Protocols,Optimize step
+    class Ready ready
 ```
 
-## Core Guides (`guide-prompt-template/`)
+### 📚 Core Components
 
-### Planning Template System
+<details>
+<summary><strong>1. Planning Templates (`beginner/guide-prompt-template/`)</strong></summary>
 
-Location: `guide-prompt-template/planning-template-example.md`
+**Location**: `beginner/guide-prompt-template/planning-template-example.md`
 
-This template provides a structured approach to project planning with AI assistance:
+Master structured project planning with AI assistance:
 
-- **Protocol Integration**: RIPER-5 + Multi-Dimensional Thinking
-- **Mode-Based Execution**: Planning → Execution → Review
-- **Visualization Requirements**: Mandatory Mermaid diagrams
-- **Continuation Resilience**: Handles interruptions gracefully
+- ✅ RIPER-5 + Multi-Dimensional Thinking integration
+- ✅ Mode-based execution workflow (Planning → Execution → Review)
+- ✅ Mandatory Mermaid diagram requirements
+- ✅ Continuation resilience for long projects
 
-### Mermaid Chart Standards
+**Quick Start**:
+1. Copy the template
+2. Adapt for your project
+3. Use with AI assistant
+4. Iterate and improve
 
-Location: `guide-prompt-template/prompt-guide-mermaid-chart.md`
+</details>
 
-Comprehensive guide for creating and maintaining Mermaid charts:
+<details>
+<summary><strong>2. Mermaid Chart Mastery (`beginner/guide-prompt-template/`)</strong></summary>
 
-- **Common Issues & Solutions**: Syntax fixes and best practices
-- **Color Palette Standards**: Consistent styling across projects
-- **Error Handling**: Troubleshooting common problems
-- **Advanced Techniques**: Complex diagrams and interactions
+**Location**: `beginner/guide-prompt-template/prompt-guide-mermaid-chart.md`
 
-## Advanced Protocols (`custom-rules/`)
+Create professional diagrams and flowcharts:
 
-### Multi-Dimensional Thinking Protocol
+- 🎨 **Color Palette Standards**: Consistent project styling
+- 🔧 **Syntax & Error Fixes**: Common issues and solutions
+- 📊 **Chart Types**: Flowcharts, sequences, timelines, and more
+- 🚀 **Advanced Techniques**: Interactive and complex diagrams
 
-Location: `custom-rules/rule-21-05-2025.md`
+**Quick Start**:
+1. Learn basic syntax
+2. Practice with examples
+3. Apply color standards
+4. Test in Mermaid Live Editor
 
-A comprehensive development protocol implementing 7 distinct patterns:
+</details>
+
+<details>
+<summary><strong>3. Multi-Dimensional Thinking Protocol (`beginner/custom-rules/`)</strong></summary>
+
+**Location**: `beginner/custom-rules/rule-21-05-2025.md`
+
+Master systematic problem-solving with 7 patterns:
 
 ```mermaid
 graph TD
-    Protocol[Multi-Dimensional Thinking Protocol] --> P1[Pattern 1: Research]
-    Protocol --> P2[Pattern 2: Innovation]
-    Protocol --> P3[Pattern 3: Planning]
-    Protocol --> P4[Pattern 4: Verification]
-    Protocol --> P5[Pattern 5: Execution]
-    Protocol --> P6[Pattern 6: Review]
-    Protocol --> P7[Pattern 7: Intelligence]
-
-    P1 --> Research[Gather information, understand deeply]
-    P2 --> Innovation[≥2 orthogonal solutions]
-    P3 --> Planning[Exhaustive technical specifications]
-    P4 --> Verification[Fact-check components]
-    P5 --> Execution[Implement with 100% fidelity]
-    P6 --> Review[Confirm and validate results]
-    P7 --> Intelligence[Complete workflow in one response]
-
-    classDef protocol fill:#d94dbb,stroke:#a3378a,color:white
+    Protocol[🧠 Multi-Dimensional Protocol] --> P1[1. Research]
+    Protocol --> P2[2. Innovation]
+    Protocol --> P3[3. Planning]
+    Protocol --> P4[4. Verification]
+    Protocol --> P5[5. Execution]
+    Protocol --> P6[6. Review]
+    Protocol --> P7[7. Intelligence]
+    
+    P1 --> R[Gather deep understanding]
+    P2 --> I[Generate ≥2 solutions]
+    P3 --> PL[Create detailed specs]
+    P4 --> V[Fact-check everything]
+    P5 --> E[Implement with fidelity]
+    P6 --> RE[Validate results]
+    P7 --> IN[Complete workflow mastery]
+    
+    classDef protocol fill:#9f39ff,stroke:#7c2d12,color:white
     classDef pattern fill:#4da6ff,stroke:#0066cc,color:white
-    classDef description fill:#4dbb5f,stroke:#36873f,color:white
-
+    
     class Protocol protocol
-    class P1,P2,P3,P4,P5,P6,P7 pattern
-    class Research,Innovation,Planning,Verification,Execution,Review,Intelligence description
+    class P1,P2,P3,P4,P5,P6,P7,R,I,PL,V,E,RE,IN pattern
 ```
 
-**Key Features:**
+</details>
 
-- Systematic problem-solving approach
-- Automatic pattern chaining
-- Quality assurance built-in
-- Extensible framework
+<details>
+<summary><strong>4. Prompt Optimization (`beginner/optimize-prompt-chat/`)</strong></summary>
 
-## Memory Banking System (`memory-banking/`)
+**Location**: `beginner/optimize-prompt-chat/prompt-enhancer.md`
 
-### Complete AI-Enhanced Development Framework
+Transform basic prompts into powerful AI interactions:
 
-The Memory Banking system provides a comprehensive workflow for AI-assisted development:
+- 🎯 **Clarity Techniques**: Clear, specific instructions
+- 🔄 **Iterative Improvement**: Refine prompts through testing
+- 📝 **Context Management**: Provide relevant background
+- ⚡ **Efficiency Patterns**: Get better results faster
+
+</details>
+
+### ✅ Beginner Level Completion Checklist
+
+- [ ] Successfully used planning templates for a project
+- [ ] Created error-free Mermaid diagrams with proper styling
+- [ ] Applied multi-dimensional thinking to solve a problem
+- [ ] Optimized prompts for better AI responses
+- [ ] Ready to advance to Intermediate level
+
+---
+
+## 🏗️ Intermediate Level - Professional Workflows
+
+*For developers ready to implement advanced AI collaboration patterns*
+
+<details>
+<summary><strong>🎯 What You'll Master (Click to expand)</strong></summary>
+
+- **Context Engineering**: Systematic AI context management
+- **Custom Mode Setup**: 6-mode development workflow system
+- **MCP Integration**: Model Context Protocol for enhanced AI collaboration
+
+**Time Investment**: 4-8 hours  
+**Prerequisites**: Completed Beginner level or equivalent experience
+
+</details>
+
+### 🛠️ Professional Development Path
 
 ```mermaid
 graph TD
-    MemoryBank[Memory Banking System] --> Modes[6 Sacred Modes]
-    Modes --> VAN[🔍 VAN Mode<br/>Verification, Analysis, Navigation]
-    Modes --> PLAN[📋 PLAN Mode<br/>Strategic Planning]
-    Modes --> CREATIVE[🎨 CREATIVE Mode<br/>Design & Architecture]
-    Modes --> IMPLEMENT[⚙️ IMPLEMENT Mode<br/>Development Execution]
-    Modes --> REFLECT[🤔 REFLECT Mode<br/>Analysis & Learning]
-    Modes --> ARCHIVE[📦 ARCHIVE Mode<br/>Knowledge Preservation]
-
-    VAN --> VanFeatures[• Project Analysis<br/>• Setup Verification<br/>• Complexity Assessment]
-    PLAN --> PlanFeatures[• Strategic Planning<br/>• Task Breakdown<br/>• Resource Planning]
-    CREATIVE --> CreativeFeatures[• Design Decisions<br/>• Architecture Planning<br/>• Option Analysis]
-    IMPLEMENT --> ImplFeatures[• Systematic Development<br/>• Quality Assurance<br/>• Testing Integration]
-    REFLECT --> ReflectFeatures[• Post-Implementation Review<br/>• Learning Extraction<br/>• Process Improvement]
-    ARCHIVE --> ArchiveFeatures[• Knowledge Documentation<br/>• Project Archival<br/>• Wisdom Preservation]
-
-    classDef system fill:#d94dbb,stroke:#a3378a,color:white
-    classDef mode fill:#4da6ff,stroke:#0066cc,color:white
-    classDef features fill:#4dbb5f,stroke:#36873f,color:white
-
-    class MemoryBank system
-    class VAN,PLAN,CREATIVE,IMPLEMENT,REFLECT,ARCHIVE mode
-    class VanFeatures,PlanFeatures,CreativeFeatures,ImplFeatures,ReflectFeatures,ArchiveFeatures features
+    Entry[🚪 Enter Intermediate] --> Context[🏗️ Context Engineering]
+    Context --> Modes[⚙️ Custom Mode Setup]
+    Modes --> MCP[🔗 MCP Integration]
+    MCP --> Advanced[🚀 Ready for Advanced]
+    
+    Context --> ContextSub[PRD • Documentation • Rules]
+    Modes --> ModesSub[VAN • PLAN • CREATIVE • IMPLEMENT • REFLECT • ARCHIVE]
+    MCP --> MCPSub[Sequential Thinking • Context Management]
+    
+    classDef main fill:#3b82f6,stroke:#1e40af,color:white
+    classDef sub fill:#10b981,stroke:#047857,color:white
+    classDef ready fill:#ff6b6b,stroke:#c92a2a,color:white
+    
+    class Entry,Context,Modes,MCP main
+    class ContextSub,ModesSub,MCPSub sub
+    class Advanced ready
 ```
 
-### Setup Guide
+### 🏗️ Core Systems
 
-For detailed setup instructions, see: [`memory-banking/guide.md`](memory-banking/guide.md)
+<details>
+<summary><strong>1. Context Engineering (`intermediate/context-engineer/`)</strong></summary>
 
-**Quick Setup:**
-1. Copy isolation_rules to `.cursor/rules`
-2. Initialize with "INIT MEMORY BANKING" prompt
-3. Start your first session
+**Revolutionary AI Context Management System**
 
-### Implementation Files
+Transform from prompt engineering to systematic context window management:
 
-- **Core Rules**: `memory-banking/isolation_rules/Core/`
-- **Level-Specific Workflows**: `memory-banking/isolation_rules/Level1-4/`
-- **Creative Phase Templates**: `memory-banking/isolation_rules/Phases/CreativePhase/`
-- **Visual Maps**: `memory-banking/isolation_rules/visual-maps/`
+**📋 Core Components**:
+- **PRD-Based Planning**: Product Requirements Document foundation
+- **Four-File Documentation**: Implementation, Structure, UI/UX, Bug Tracking
+- **Context Window Management**: Strategic information organization
+- **Phase-Based Workflow**: Context Generation → Development → Ongoing
 
-## Real-World Examples (`output-planning-4.0-generate-example/`)
+**🚀 Quick Setup**:
+1. Read `intermediate/context-engineer/guide.md`
+2. Create your first PRD using the template
+3. Generate the four documentation files
+4. Apply to a real project
 
-### Live AI Collaboration Recordings
+**💡 Key Benefits**:
+- Eliminate AI hallucinations through proper context
+- Systematic project initialization
+- Better context window management
+- Foundation for advanced workflows
 
-These examples demonstrate actual Claude Sonnet 4.0 collaboration using the planning templates:
+</details>
 
-1. **Backend Planning**: `step-1-car-stores-and-apis-planning.md`
+<details>
+<summary><strong>2. Custom Mode Setup (`intermediate/setup-custom-mode/`)</strong></summary>
 
+**6-Mode Development Workflow System**
+
+Professional AI-enhanced development with distinct operational modes:
+
+```mermaid
+graph LR
+    VAN[🔍 VAN<br/>Verification & Analysis] --> PLAN[📋 PLAN<br/>Strategic Planning]
+    PLAN --> CREATIVE[🎨 CREATIVE<br/>Design Decisions]
+    CREATIVE --> IMPLEMENT[⚙️ IMPLEMENT<br/>Development]
+    IMPLEMENT --> REFLECT[🤔 REFLECT<br/>Review & Learning]
+    REFLECT --> ARCHIVE[📦 ARCHIVE<br/>Knowledge Storage]
+    
+    classDef mode fill:#4da6ff,stroke:#0066cc,color:white
+    class VAN,PLAN,CREATIVE,IMPLEMENT,REFLECT,ARCHIVE mode
+```
+
+**🛠️ Setup Process**:
+1. Copy isolation rules: `cp -r advanced/memory-banking/isolation_rules .cursor/rules`
+2. Configure each mode using guides in `intermediate/setup-custom-mode/`
+3. Test with commands: `VAN`, `PLAN`, `CREATIVE`, `IMPLEMENT`, `QA`
+
+**Available Modes**:
+- **VAN Mode**: Project analysis and verification
+- **PLAN Mode**: Strategic planning and task breakdown  
+- **CREATIVE Mode**: Design and architecture decisions
+- **IMPLEMENT Mode**: Development execution
+- **REFLECT Mode**: Post-implementation analysis
+- **ARCHIVE Mode**: Knowledge preservation
+
+</details>
+
+<details>
+<summary><strong>3. MCP Integration (`intermediate/setup-mcp-tool/`)</strong></summary>
+
+**Model Context Protocol for Enhanced AI Collaboration**
+
+Advanced AI collaboration features:
+
+- 🧠 **Sequential Thinking**: Step-by-step reasoning
+- 📚 **Context Management**: Large context handling
+- 🔄 **Multi-Tool Workflows**: Integrated tool usage
+- ⚡ **Workflow Automation**: Streamlined processes
+
+**Setup Guide**:
+1. Review `intermediate/setup-mcp-tool/mcp.json`
+2. Configure MCP settings
+3. Test sequential thinking capabilities
+4. Integrate with existing workflows
+
+</details>
+
+### ✅ Intermediate Level Completion Checklist
+
+- [ ] Implemented Context Engineering methodology
+- [ ] Set up and used all 6 custom modes
+- [ ] Successfully integrated MCP tools
+- [ ] Applied professional workflows to real projects
+- [ ] Ready to advance to Advanced level
+
+---
+
+## 🚀 Advanced Level - Master Practitioner
+
+*For developers ready to achieve AI development mastery*
+
+<details>
+<summary><strong>🎯 Master-Level Capabilities (Click to expand)</strong></summary>
+
+- **Memory Banking System**: Ultimate AI-enhanced development framework
+- **Real-World Applications**: Live collaboration examples and case studies
+- **Cost Optimization**: Professional development without breaking the budget
+- **Creative Applications**: Innovative AI use cases and role-playing
+
+**Time Investment**: 8+ hours  
+**Prerequisites**: Completed Intermediate level, real project experience
+
+</details>
+
+### 🏆 Mastery Achievement Path
+
+```mermaid
+graph TD
+    Master[🎓 Advanced Mastery] --> Memory[🏦 Memory Banking]
+    Master --> Examples[🎬 Real Examples]
+    Master --> Money[💰 Cost Optimization]
+    Master --> Creative[🎭 Creative Applications]
+    
+    Memory --> MemoryComplete[Complete 6-Mode Workflow Mastery]
+    Examples --> ExamplesComplete[Live AI Collaboration Analysis]
+    Money --> MoneyComplete[Professional Cost-Effective Development]
+    Creative --> CreativeComplete[Innovative AI Applications]
+    
+    MemoryComplete --> Ultimate[🌟 AI Development Master]
+    ExamplesComplete --> Ultimate
+    MoneyComplete --> Ultimate
+    CreativeComplete --> Ultimate
+    
+    classDef master fill:#9f39ff,stroke:#7c2d12,color:white
+    classDef component fill:#4da6ff,stroke:#0066cc,color:white
+    classDef complete fill:#22c55e,stroke:#16a34a,color:white
+    classDef ultimate fill:#ff6b6b,stroke:#c92a2a,color:white
+    
+    class Master master
+    class Memory,Examples,Money,Creative component
+    class MemoryComplete,ExamplesComplete,MoneyComplete,CreativeComplete complete
+    class Ultimate ultimate
+```
+
+### 🏦 Advanced Systems
+
+<details>
+<summary><strong>1. Memory Banking System (`advanced/memory-banking/`)</strong></summary>
+
+**The Ultimate AI-Enhanced Development Framework**
+
+Complete workflow mastery with systematic knowledge preservation:
+
+**🔧 System Architecture**:
+```mermaid
+graph LR
+    VAN[🔍 VAN Mode<br/>Entry & Analysis] --> PLAN[📋 PLAN Mode<br/>Strategic Planning]
+    PLAN --> CREATIVE[🎨 CREATIVE Mode<br/>Design Decisions]
+    CREATIVE --> IMPLEMENT[⚙️ IMPLEMENT Mode<br/>Development]
+    IMPLEMENT --> REFLECT[🤔 REFLECT Mode<br/>Analysis & Learning]
+    REFLECT --> ARCHIVE[📦 ARCHIVE Mode<br/>Knowledge Storage]
+    ARCHIVE --> VAN
+    
+    classDef mode fill:#4da6ff,stroke:#0066cc,color:white
+    class VAN,PLAN,CREATIVE,IMPLEMENT,REFLECT,ARCHIVE mode
+```
+
+**🚀 Quick Setup**:
+1. **Install System**: `cp -r advanced/memory-banking/isolation_rules .cursor/rules`
+2. **Initialize**: Use "INIT MEMORY BANKING" command
+3. **Start Session**: Begin with `VAN` mode
+4. **Follow Workflow**: VAN → PLAN → CREATIVE → IMPLEMENT → REFLECT → ARCHIVE
+
+**📋 Core Files**:
+- `tasks.md` - Current project tasks
+- `projectbrief.md` - Project overview and goals
+- `activeContext.md` - Current working context
+- `progress.md` - Development progress tracking
+
+**🎯 Mastery Benefits**:
+- Complete project lifecycle management
+- Systematic knowledge preservation
+- AI-enhanced decision making
+- Perfect human-AI collaboration synthesis
+
+</details>
+
+<details>
+<summary><strong>2. Real-World Examples (`advanced/output-planning-4.0-generate-example/`)</strong></summary>
+
+**Live AI Collaboration Case Studies**
+
+Learn from actual Claude Sonnet 4.0 collaboration sessions:
+
+**🎬 Available Examples**:
+
+1. **Backend Planning** (`step-1-car-stores-and-apis-planning.md`)
    - API architecture design
-   - Data flow visualization
+   - Data flow visualization  
    - Implementation phases
 
-2. **UI Component Planning**: `step-2-car-selection-component-planning.md`
-
+2. **UI Component Planning** (`step-2-car-selection-component-planning.md`)
    - Component architecture
    - User interaction flows
    - Accessibility considerations
 
-3. **System Integration**: `step-3-product-integration-planning.md`
+3. **System Integration** (`step-3-product-integration-planning.md`)
    - Integration strategies
    - Risk mitigation
    - Testing approaches
 
-### Key Learning Points
+**💡 Key Learning Points**:
+- How to adapt templates for different project types
+- Human creativity + AI systematic thinking balance
+- Template flexibility and evolution
+- Real-world problem-solving patterns
 
-```mermaid
-graph LR
-    Examples[Real Examples] --> Patterns[Collaboration Patterns]
-    Patterns --> Template[Template Adaptation]
-    Template --> AI[AI Partnership]
-    AI --> Results[Practical Results]
+</details>
 
-    Patterns --> P1[Human provides vision]
-    Patterns --> P2[AI provides structure]
-    Patterns --> P3[Iterative refinement]
+<details>
+<summary><strong>3. Cost Optimization (`advanced/tip-money-saving-strategy/`)</strong></summary>
 
-    Template --> T1[Flexible framework]
-    Template --> T2[Context adaptation]
-    Template --> T3[Domain-specific application]
+**Professional Development Without Breaking the Budget**
 
-    AI --> A1[Systematic thinking]
-    AI --> A2[Creative synthesis]
-    AI --> A3[Quality assurance]
+Smart resource allocation for AI-enhanced development:
 
-    classDef main fill:#4da6ff,stroke:#0066cc,color:white
-    classDef detail fill:#4dbb5f,stroke:#36873f,color:white
+**💰 Cost-Saving Strategy**:
+- Use **Gemini 2.5 Pro Preview** (FREE) for planning
+- Use **Claude Code Extension** for targeted implementation
+- Avoid expensive subscriptions ($20/month = $240/year saved)
 
-    class Examples,Patterns,Template,AI,Results main
-    class P1,P2,P3,T1,T2,T3,A1,A2,A3 detail
+**🛠️ Setup Process**:
+```bash
+# Install Claude Code SDK
+npm install -g @anthropic-ai/claude-code
+
+# Download Claude Desktop
+# Visit: https://claude.ai/download
+
+# Authenticate
+claude
 ```
 
-## Setup Instructions (`setup-custom-mode/`)
-
-### Complete Mode Setup Guide
-
-The setup-custom-mode directory provides detailed instructions for implementing the 6-mode system:
-
-#### Available Modes
-
-- **VAN Mode**: `setup-custom-mode/VAN/`
-- **PLAN Mode**: `setup-custom-mode/PLAN/`
-- **CREATIVE Mode**: `setup-custom-mode/CREATIVE/`
-- **IMPLEMENT Mode**: `setup-custom-mode/IMPLEMENT/`
-- **REFLECT-AND-ARCHIVE Mode**: `setup-custom-mode/REFLECT-AND-ARCHIVE/`
-
-#### Installation Process
-
-```mermaid
-graph TD
-    Start[Start Setup] --> Copy[Copy isolation_rules]
-    Copy --> Install[Install Mode Files]
-    Install --> Configure[Configure Cursor]
-    Configure --> Test[Test System]
-    Test --> Complete[Setup Complete]
-
-    Copy --> IsolationRules[Copy memory-banking/isolation_rules<br/>to .cursor/rules/]
-    Install --> ModeFiles[Copy mode files from<br/>setup-custom-mode/]
-    Configure --> CursorConfig[Configure Cursor IDE<br/>with new modes]
-    Test --> TestCommands[Test VAN, PLAN, CREATIVE,<br/>IMPLEMENT, QA commands]
-
-    classDef step fill:#4da6ff,stroke:#0066cc,color:white
-    classDef action fill:#4dbb5f,stroke:#36873f,color:white
-
-    class Start,Copy,Install,Configure,Test,Complete step
-    class IsolationRules,ModeFiles,CursorConfig,TestCommands action
-```
-
-### Usage Commands
-
-After setup, use these commands to activate modes:
-
-- `VAN` - Verification, Analysis, Navigation
-- `PLAN` - Strategic Planning
-- `CREATIVE` - Design & Architecture
-- `IMPLEMENT` - Development Execution
-- `REFLECT-AND-ARCHIVE` - Reflection and ARCHIVE
-
-## Money-Saving Strategy (`tip-money-saving-strategy/`)
-
-### Claude Code Extension Setup for Cost-Effective Development
-
-This section provides a comprehensive money-saving approach to AI-assisted development:
-
-**Cost Optimization Strategy:**
-- Use **Gemini 2.5 Pro Preview** (free) for project planning
-- Use **Claude Code extension** for implementation
-- Avoid expensive Cursor Pro+ subscriptions ($20/month)
-
-### Complete Setup Guide
-
-Location: `tip-money-saving-strategy/guide.md`
-
-**Installation Steps:**
-1. Install Claude Code SDK: `npm install -g @anthropic-ai/claude-code`
-2. Download Claude Desktop from https://claude.ai/download
-3. Install Claude Code extension in Cursor
-4. Authenticate using `claude` command in terminal
-
-**Usage Workflow:**
+**📊 Workflow**:
 ```mermaid
 graph LR
-    Plan[Plan with Gemini 2.5 Pro] --> Reference[Reference files with @ tags]
-    Reference --> Implement[Implement with Claude Code]
-    Implement --> Save[Save Money vs Pro+ subscription]
-
+    Plan[Plan with Gemini<br/>FREE] --> Reference[Reference with @ tags]
+    Reference --> Implement[Implement with Claude Code<br/>Pay-per-use]
+    Implement --> Save[Save $240/year]
+    
     classDef free fill:#22c55e,stroke:#16a34a,color:white
     classDef paid fill:#3b82f6,stroke:#1e40af,color:white
     classDef savings fill:#eab308,stroke:#ca8a04,color:white
-
+    
     class Plan free
     class Implement paid
     class Save savings
 ```
 
-**Key Benefits:**
-- **Cost Savings**: Avoid $20/month Cursor Pro+ subscription
-- **Free Planning**: Use Gemini 2.5 Pro Preview for architecture and planning
-- **Targeted AI Use**: Pay only for implementation when needed
-- **Context-Aware Development**: Reference planning files with @ tags
+</details>
 
-## Context Engineering (`context-engineer/`)
+<details>
+<summary><strong>4. Creative Applications (`advanced/funny-prompt/`)</strong></summary>
 
-### Revolutionary AI Context Management
+**Explore the Creative Side of AI Development**
 
-Context Engineering represents a paradigm shift from traditional prompt engineering to comprehensive context window management. This methodology provides structured workflows for complex AI-assisted development projects.
+Innovative applications and role-playing scenarios:
 
-**Core Components:**
+- 🎭 **Role-Playing Prompts**: Creative AI interactions
+- 🌍 **Multi-Language Support**: English and Vietnamese variations
+- 🎨 **Creative Templates**: Inspiration for unique AI applications
+- 🧪 **Experimental Techniques**: Push the boundaries of AI interaction
 
-- **PRD-Based Planning**: Product Requirements Document as foundation
-- **Four-File Documentation System**: Implementation Plan, Project Structure, UI/UX Doc, Bug Tracking  
-- **Context Window Management**: Strategic information organization for AI models
-- **Phase-Based Workflow**: Context Generation → Development Execution → Ongoing Development
+**Available Content**:
+- `prompt-role-play-en.md` - English role-playing scenarios
+- `prompt-role-play-nho-giao-vi.md` - Vietnamese cultural prompts
+- `test-prompt-vi/` - Vietnamese prompt testing examples
 
-**Key Features:**
+</details>
 
-```mermaid
-graph LR
-    Context[Context Engineering] --> PRD[PRD Creation]
-    Context --> Docs[Documentation System]
-    Context --> Rules[Rule Files]
-    Context --> Workflow[Structured Workflow]
+### ✅ Advanced Level Mastery Checklist
 
-    PRD --> Features[Feature Analysis]
-    PRD --> Tech[Tech Stack Research]
-    
-    Docs --> Implementation[Implementation.md]
-    Docs --> Structure[project_structure.md]
-    Docs --> UIUX[UI_UX_doc.md]
-    Docs --> Bugs[Bug_tracking.md]
-    
-    Rules --> Generate[Generate Rule]
-    Rules --> Work[Work Rule]
-    
-    Workflow --> Phase1[Context Generation]
-    Workflow --> Phase2[Development Execution]
-    Workflow --> Phase3[Ongoing Development]
+- [ ] Implemented complete Memory Banking workflow
+- [ ] Analyzed and applied real-world collaboration examples  
+- [ ] Set up cost-effective development environment
+- [ ] Explored creative AI applications
+- [ ] Achieved synthesis of human creativity and AI systematic thinking
+- [ ] **YOU ARE NOW AN AI DEVELOPMENT MASTER! 🎓**
 
-    classDef contexteng fill:#9f39ff,stroke:#7c2d12,color:white
-    classDef component fill:#3b82f6,stroke:#1e40af,color:white
-    classDef feature fill:#10b981,stroke:#047857,color:white
+---
 
-    class Context contexteng
-    class PRD,Docs,Rules,Workflow component
-    class Features,Tech,Implementation,Structure,UIUX,Bugs,Generate,Work,Phase1,Phase2,Phase3 feature
+## 🎯 Getting Started - Choose Your Path
+
+### 🤔 Not Sure Where to Start?
+
+<details>
+<summary><strong>Take This Quick Assessment (Click to expand)</strong></summary>
+
+**Answer these questions to find your level:**
+
+1. **Have you used AI for coding before?**
+   - Never → Start with **Beginner**
+   - Basic prompts → Start with **Beginner** 
+   - Some experience → Consider **Intermediate**
+
+2. **Can you create Mermaid diagrams?**
+   - No → **Beginner**
+   - Basic → **Beginner** or **Intermediate**
+   - Advanced → **Intermediate** or **Advanced**
+
+3. **Do you have structured development workflows?**
+   - No → **Beginner**
+   - Basic → **Intermediate**
+   - Advanced → **Advanced**
+
+4. **Have you worked with AI context management?**
+   - No → **Intermediate** (after Beginner)
+   - Yes → **Advanced**
+
+</details>
+
+### 🚀 Quick Start Commands
+
+**Beginner Level**:
+```bash
+# Start with planning templates
+cd beginner/guide-prompt-template/
+# Read planning-template-example.md
 ```
 
-### Integration with Memory Banking
-
-Context Engineering complements the Memory Banking system by providing:
-- Enhanced project initialization workflows
-- Systematic documentation generation
-- Better context window management during development
-- Structured foundation for VAN and PLAN modes
-
-**Usage Guide**: See [`context-engineer/guide.md`](context-engineer/guide.md) for complete methodology
-
-## MCP Tools (`setup-mcp-tool/`)
-
-### Model Context Protocol Integration
-
-The MCP tools directory provides configuration for advanced AI collaboration:
-
-- **Configuration File**: `setup-mcp-tool/mcp.json`
-- **Setup Guide**: Instructions for MCP integration
-- **Advanced Features**: Sequential thinking, context management
-
-### Integration Benefits
-
-```mermaid
-graph LR
-    MCP[MCP Integration] --> Enhanced[Enhanced AI Collaboration]
-    Enhanced --> Sequential[Sequential Thinking]
-    Enhanced --> Context[Context Management]
-    Enhanced --> MultiTool[Multi-Tool Workflows]
-
-    Sequential --> S1[Step-by-step reasoning]
-    Sequential --> S2[Adaptive problem solving]
-
-    Context --> C1[Large context handling]
-    Context --> C2[Information synthesis]
-
-    MultiTool --> M1[Integrated tool usage]
-    MultiTool --> M2[Workflow automation]
-
-    classDef main fill:#4da6ff,stroke:#0066cc,color:white
-    classDef feature fill:#4dbb5f,stroke:#36873f,color:white
-
-    class MCP,Enhanced main
-    class Sequential,Context,MultiTool,S1,S2,C1,C2,M1,M2 feature
+**Intermediate Level**:
+```bash
+# Begin with Context Engineering
+cd intermediate/context-engineer/
+# Read guide.md
 ```
 
-## Implementation Workflow
-
-### Recommended Learning Path
-
-```mermaid
-graph TD
-    Begin[Begin Journey] --> Foundation[Foundation Skills]
-    Foundation --> Intermediate[Intermediate Techniques]
-    Intermediate --> Advanced[Advanced Implementation]
-    Advanced --> Expert[Expert Mastery]
-    Expert --> Mastery[System Mastery]
-
-    Foundation --> F1[Study guide-prompt-template/]
-    Foundation --> F2[Practice with examples]
-    Foundation --> F3[Learn Mermaid charts]
-
-    Intermediate --> I1[Implement custom-rules/]
-    Intermediate --> I2[Practice planning templates]
-    Intermediate --> I3[Try real-world examples]
-
-    Advanced --> A1[Setup memory-banking/]
-    Advanced --> A2[Configure custom modes]
-    Advanced --> A3[Integrate MCP tools]
-
-    Expert --> E1[Master Context Engineering]
-    Expert --> E2[PRD-based workflows]
-    Expert --> E3[Advanced context management]
-
-    Mastery --> M1[Master all 6 modes + Context Engineering]
-    Mastery --> M2[Optimize integrated workflows]
-    Mastery --> M3[Teach comprehensive methodology]
-
-    classDef phase fill:#4da6ff,stroke:#0066cc,color:white
-    classDef task fill:#4dbb5f,stroke:#36873f,color:white
-
-    class Begin,Foundation,Intermediate,Advanced,Expert,Mastery phase
-    class F1,F2,F3,I1,I2,I3,A1,A2,A3,E1,E2,E3,M1,M2,M3 task
+**Advanced Level**:
+```bash
+# Initialize Memory Banking
+cp -r advanced/memory-banking/isolation_rules .cursor/rules
+# Use: "INIT MEMORY BANKING" in Cursor
 ```
 
-### Success Metrics
+---
 
-- **Foundation Level**: Successfully use planning templates and create Mermaid charts
-- **Intermediate Level**: Implement multi-dimensional thinking protocol effectively
-- **Advanced Level**: Master the 6-mode Memory Banking system
-- **Expert Level**: Implement Context Engineering workflows and PRD-based development
-- **Mastery Level**: Seamlessly integrate all methodologies for comprehensive AI-enhanced development
+## 📚 Best Practices & Guidelines
 
-## Best Practices
+### 🎯 Development Workflow
+1. **Always start with planning** - Use templates and structured approaches
+2. **Visualize complex systems** - Create Mermaid diagrams for better understanding
+3. **Follow systematic protocols** - Apply multi-dimensional thinking
+4. **Document everything** - Maintain comprehensive project documentation
+5. **Iterate and improve** - Regular review and refinement cycles
 
-### Development Workflow
-
-1. **Start with VAN Mode**: Analyze and verify project setup
-2. **Use PLAN Mode**: Create comprehensive development plans
-3. **Enter CREATIVE Mode**: Make design decisions systematically
-4. **Execute with IMPLEMENT Mode**: Build features with quality assurance
-5. **Review with REFLECT Mode**: Extract lessons and improvements
-6. **Archive with ARCHIVE Mode**: Preserve knowledge for future use
-
-### AI Collaboration
-
+### 🤖 AI Collaboration
 - Use structured templates for consistent results
 - Provide clear context and requirements
 - Iterate and refine through multiple passes
 - Document decisions and rationale
 - Maintain quality standards throughout
 
-### Quality Assurance
-
+### 🔧 Quality Assurance
 - Always use Mermaid diagrams for complex workflows
 - Follow the multi-dimensional thinking protocol
 - Implement proper error handling and testing
 - Maintain comprehensive documentation
 - Regular review and improvement cycles
 
-## Troubleshooting
+---
 
-### Common Issues
+## 🆘 Troubleshooting & Support
 
-1. **File Path Errors**: Ensure correct directory structure
-2. **Mermaid Chart Errors**: Use the troubleshooting guide in guide-prompt-template/
-3. **Mode Configuration Issues**: Check setup-custom-mode/ instructions
-4. **MCP Integration Problems**: Verify setup-mcp-tool/ configuration
+<details>
+<summary><strong>Common Issues & Solutions (Click to expand)</strong></summary>
 
-### Getting Help
+### File Path Errors
+- Ensure you're using the correct directory structure
+- Check that files exist at specified paths
+- Use absolute paths when needed
 
-- Review the specific directory guides for detailed instructions
-- Check the real-world examples for practical applications
-- Consult the troubleshooting sections in each guide
-- Practice with the provided templates and examples
+### Mermaid Chart Errors
+- Review syntax in `beginner/guide-prompt-template/prompt-guide-mermaid-chart.md`
+- Test charts in [Mermaid Live Editor](https://mermaid.live/)
+- Check for proper quote usage around text
 
-## Conclusion
+### Mode Configuration Issues
+- Verify setup instructions in `intermediate/setup-custom-mode/`
+- Ensure isolation rules are copied correctly
+- Test each mode individually
 
-The Cursor Tips system provides a comprehensive framework for AI-enhanced development. By following this guide and implementing the various components, you'll develop a systematic approach to coding that combines human creativity with AI systematic thinking.
+### MCP Integration Problems
+- Check configuration in `intermediate/setup-mcp-tool/mcp.json`
+- Verify MCP tools are properly installed
+- Test sequential thinking capabilities
 
-Start with the foundation guides, practice with real examples, and gradually implement the advanced features to transform your development workflow.
+</details>
+
+### 💬 Getting Help
+- Review level-specific guides for detailed instructions
+- Check real-world examples for practical applications
+- Practice with provided templates and examples
+- Join the community for support and discussions
 
 ---
 
-**Next Steps:**
+## 🎉 Next Steps
 
-1. Review `guide-prompt-template/` for core concepts
-2. Study `output-planning-4.0-generate-example/` for practical applications
-3. Learn `context-engineer/` for systematic project management
-4. Implement `setup-custom-mode/` for advanced workflows
-5. Master `memory-banking/` for complete system integration
+### 🌟 Your Journey Continues
+
+1. **🌱 Beginner**: Master `beginner/` directory content
+2. **🏗️ Intermediate**: Progress to `intermediate/` systems  
+3. **🚀 Advanced**: Achieve mastery with `advanced/` frameworks
+4. **🎓 Master**: Integrate all levels and teach others
+
+### 🤝 Contributing
+
+This is an open-source project. Help us improve by:
+- Adding new examples and templates
+- Improving documentation and guides
+- Sharing your success stories
+- Contributing to community discussions
 
 ---
 
-**Contributing:**
-This is an open-source project. Feel free to contribute improvements, examples, and enhancements to help the community grow.
+**Created by**: [GiangBV](https://www.linkedin.com/in/buivangiang1992), [AuPMH](https://www.linkedin.com/in/pham-au-2a1bb1162)  
+**Powered by**: Caffeine, Determination, AI Collaboration, and Weekend Coding Sessions  
+**Special Thanks**: [vanzan01](https://github.com/vanzan01), [Smithery.ai](https://smithery.ai/), MCP Protocol, Anthropic, and the amazing developer community
 
-**Created by:** [GiangBV](https://www.linkedin.com/in/buivangiang1992), [AuPMH](https://www.linkedin.com/in/pham-au-2a1bb1162)
+---
 
-**Powered by:** Caffeine, Determination, AI Collaboration, and Questionable Life Choices and Working Non-Stop on Saturdays and Sundays
-
-**Special Thanks:** [vanzan01](https://github.com/vanzan01), [https://smithery.ai/](https://smithery.ai/), MCP Protocol, Anthropic, and my best friend [Au Pham](https://www.linkedin.com/in/pham-au-2a1bb1162)
+> **Ready to transform your development workflow?** 🚀  
+> Choose your level above and begin your AI development mastery journey today!
