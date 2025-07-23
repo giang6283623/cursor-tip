@@ -213,7 +213,7 @@ graph TB
 
 **BATTLE ACTIONS:**
 
-- [📖 Read the Ancient Scrolls](guide-prompt-template/planning-template-example.md)
+- [📖 Read the Ancient Scrolls](beginner/guide-prompt-template/planning-template-example.md)
 - [⚔️ Challenge Accepted] - Study the planning template
 - [🎨 Visualize] - Create your own planning diagram
 - [✅ Mark as Defeated] - Complete the quest
@@ -293,7 +293,7 @@ graph TB
 
 **BATTLE ACTIONS:**
 
-- [📖 Study the Mermaid Grimoire](guide-prompt-template/prompt-guide-mermaid-chart.md)
+- [📖 Study the Mermaid Grimoire](beginner/guide-prompt-template/prompt-guide-mermaid-chart.md)
 - [⚔️ Master the Syntax] - Learn proper Mermaid formatting
 - [🎨 Create Art] - Draw your first battle diagram
 - [✅ Prove Your Worth] - Show mastery
@@ -408,7 +408,7 @@ graph TD
 
 **BATTLE ACTIONS:**
 
-- [📖 Read the Sacred Protocol](custom-rules/rule-21-05-2025.md)
+- [📖 Read the Sacred Protocol](beginner/custom-rules/rule-21-05-2025.md)
 - [⚔️ Master All 7 Patterns] - The ultimate challenge
 - [🎨 Demonstrate Mastery] - Show you understand
 - [✅ Achieve Enlightenment] - Complete transformation
@@ -509,7 +509,7 @@ graph TD
 
 **🔥 LEGENDARY ARCHITECT BATTLE ACTIONS:**
 
-- [📖 Study the Context Engineering Arts](context-engineer/guide.md)
+- [📖 Study the Context Engineering Arts](intermediate/context-engineer/guide.md)
 - [📋 Master PRD Creation] - Learn systematic project requirements documentation
 - [📚 Master Documentation System] - Four-file systematic approach
 - [⚙️ Master Rule Engineering] - Generate and Work rule creation
@@ -629,7 +629,7 @@ graph TD
 
 **🔥 LEGENDARY BATTLE ACTIONS:**
 
-- [📖 Study the MCP Arts](setup-mcp-tool/MCP.png)
+- [📖 Study the MCP Arts](intermediate/setup-mcp-tool/MCP.png)
 - [🧠 Master Sequential Thinking] - Learn step-by-step reasoning with AI
 - [📚 Master Context Management] - Handle large information sets
 - [💭 Master Clear Thought] - Structured problem analysis
@@ -755,14 +755,14 @@ graph TD
 
 **🏦 ULTIMATE BATTLE ACTIONS:**
 
-- [📖 Study the Sacred Memory Banking Arts](memory-banking/guide.md)
-- [⚙️ Install the Ancient Isolation Rules] - Copy the sacred framework from memory-banking/isolation_rules
-- [🔍 Master VAN Mode] - Verification, Analysis, Navigation (setup-custom-mode/VAN/)
-- [📋 Master PLAN Mode] - Strategic Planning (setup-custom-mode/PLAN/)
-- [🎨 Master CREATIVE Mode] - Design & Architecture (setup-custom-mode/CREATIVE/)
-- [⚙️ Master IMPLEMENT Mode] - Development Execution (setup-custom-mode/IMPLEMENT/)
-- [🤔 Master REFLECT Mode] - Analysis & Learning (setup-custom-mode/REFLECT-AND-ARCHIVE/)
-- [📦 Master ARCHIVE Mode] - Knowledge Preservation (setup-custom-mode/REFLECT-AND-ARCHIVE/)
+- [📖 Study the Sacred Memory Banking Arts](advanced/memory-banking/guide.md)
+- [⚙️ Install the Ancient Isolation Rules] - Copy the sacred framework from advanced/memory-banking/isolation_rules
+- [🔍 Master VAN Mode] - Verification, Analysis, Navigation (intermediate/setup-custom-mode/VAN/)
+- [📋 Master PLAN Mode] - Strategic Planning (intermediate/setup-custom-mode/PLAN/)
+- [🎨 Master CREATIVE Mode] - Design & Architecture (intermediate/setup-custom-mode/CREATIVE/)
+- [⚙️ Master IMPLEMENT Mode] - Development Execution (intermediate/setup-custom-mode/IMPLEMENT/)
+- [🤔 Master REFLECT Mode] - Analysis & Learning (intermediate/setup-custom-mode/REFLECT-AND-ARCHIVE/)
+- [📦 Master ARCHIVE Mode] - Knowledge Preservation (intermediate/setup-custom-mode/REFLECT-AND-ARCHIVE/)
 - [🌟 Prove Ultimate Mastery] - Complete AI-enhanced development workflow
 
 ### 🏛️ THE FIVE SACRED MODES
@@ -820,7 +820,7 @@ Each mode represents a critical phase in the Memory Banking development workflow
 
 ### 🚀 SETTING UP THE MEMORY BANKING SYSTEM
 
-For detailed setup instructions, see: [`memory-banking/guide.md`](memory-banking/guide.md)
+For detailed setup instructions, see: [`advanced/memory-banking/guide.md`](advanced/memory-banking/guide.md)
 
 **Step 1: Install the Complete Memory Banking Implementation**
 
@@ -829,15 +829,15 @@ For detailed setup instructions, see: [`memory-banking/guide.md`](memory-banking
 cd your-project-directory
 
 # Copy the isolation_rules folder to .cursor/rules (the ritual of power)
-cp -r memory-banking/isolation_rules .cursor/rules/
+cp -r advanced/memory-banking/isolation_rules .cursor/rules/
 
-# Follow the detailed setup guides in setup-custom-mode/
+# Follow the detailed setup guides in intermediate/setup-custom-mode/
 # Each mode has its own setup directory with screenshots and instructions:
-# - setup-custom-mode/VAN/
-# - setup-custom-mode/PLAN/
-# - setup-custom-mode/CREATIVE/
-# - setup-custom-mode/IMPLEMENT/
-# - setup-custom-mode/REFLECT-AND-ARCHIVE/
+# - intermediate/setup-custom-mode/VAN/
+# - intermediate/setup-custom-mode/PLAN/
+# - intermediate/setup-custom-mode/CREATIVE/
+# - intermediate/setup-custom-mode/IMPLEMENT/
+# - intermediate/setup-custom-mode/REFLECT-AND-ARCHIVE/
 ```
 
 **Step 2: Initialize Your Memory Bank Files**
@@ -1043,7 +1043,7 @@ _"Help me create a car selection component and integrate it to a product system"
 
 **MISSION ACTIONS:**
 
-- [📖 Study the Live Backend Battle](output-planning-4.0-generate-example/step-1-car-stores-and-apis-planning.md)
+- [📖 Study the Live Backend Battle](advanced/output-planning-4.0-generate-example/step-1-car-stores-and-apis-planning.md)
 - [🎨 Analyze] - How AI visualized complex data architecture
 - [🤖 Learn] - Template adaptation techniques for backend planning
 - [⚔️ Apply] - Use these patterns for your own backend projects
@@ -1092,7 +1092,7 @@ _"Help me create a car selection component and integrate it to a product system"
 
 **MISSION ACTIONS:**
 
-- [📖 Study the Live UI Battle](output-planning-4.0-generate-example/step-2-car-selection-component-planning.md)
+- [📖 Study the Live UI Battle](advanced/output-planning-4.0-generate-example/step-2-car-selection-component-planning.md)
 - [🎨 Analyze] - Advanced user workflow visualization techniques
 - [🤖 Learn] - How AI approaches UX planning systematically
 - [⚔️ Apply] - Template-driven component design for your projects
@@ -1141,7 +1141,7 @@ _"Help me create a car selection component and integrate it to a product system"
 
 **MISSION ACTIONS:**
 
-- [📖 Study the Live Integration War](output-planning-4.0-generate-example/step-3-product-integration-planning.md)
+- [📖 Study the Live Integration War](advanced/output-planning-4.0-generate-example/step-3-product-integration-planning.md)
 - [🎨 Analyze] - Master-level system integration visualization
 - [🤖 Learn] - Elite AI collaboration for complex system design
 - [⚔️ Apply] - Template-driven integration planning for your systems
@@ -1384,7 +1384,7 @@ graph TD
 
 **💰 BUDGET MASTER BATTLE ACTIONS:**
 
-- [📖 Study the Frugal Arts](tip-money-saving-strategy/guide.md)
+- [📖 Study the Frugal Arts](advanced/tip-money-saving-strategy/guide.md)
 - [🛠️ Master Claude Code Setup] - Complete installation and authentication
 - [🎯 Master Smart Workflow] - Use Gemini for planning, Claude Code for implementation
 - [⚡ Master Cost Optimization] - Efficient context management with @ tags
