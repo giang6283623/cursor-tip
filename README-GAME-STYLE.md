@@ -630,6 +630,7 @@ graph TD
 **🔥 LEGENDARY BATTLE ACTIONS:**
 
 - [📖 Study the MCP Arts](intermediate/setup-mcp-tool/MCP.png)
+- [📋 **Complete MCP Setup Guide**](advanced/claude-code-extension/mcp/guide.md) - Master the 7-step setup process with visual guides
 - [🧠 Master Sequential Thinking] - Learn step-by-step reasoning with AI
 - [📚 Master Context Management] - Handle large information sets
 - [💭 Master Clear Thought] - Structured problem analysis

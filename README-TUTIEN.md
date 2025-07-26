@@ -575,6 +575,12 @@ const contextEngineering = {
 
 **Đại Năng Chân Ngôn:** _"Ngươi nghĩ ngươi có thể code một mình? Ta sẽ chỉ cho ngươi sức mạnh của AI partnership chân chính đại đạo!"_
 
+**📋 MCP Thiết Lập Hoàn Chỉnh Bí Kíp**: [`advanced/claude-code-extension/mcp/guide.md`](advanced/claude-code-extension/mcp/guide.md)
+- Bảy bước thiết lập quy trình với hình ảnh hướng dẫn chi tiết
+- Lựa chọn server Smithery.ai và cấu hình Context7 
+- An toàn thực hành và sử dụng GitHub Clone account
+- Kiểm tra trạng thái và hướng dẫn khắc phục sự cố
+
 </details>
 
 **🌟 TRUYỀN THUYẾT BATTLE MECHANICS:**
