@@ -300,6 +300,12 @@ Advanced AI collaboration features:
 3. Test sequential thinking capabilities
 4. Integrate with existing workflows
 
+**📋 Detailed MCP Setup Guide**: [`advanced/claude-code-extension/mcp/guide.md`](advanced/claude-code-extension/mcp/guide.md)
+- Complete 7-step setup process with visual guides
+- Smithery.ai server selection and Context7 configuration
+- Security best practices and GitHub Clone account usage
+- Status verification and troubleshooting guide
+
 </details>
 
 ### ✅ Intermediate Level Completion Checklist
