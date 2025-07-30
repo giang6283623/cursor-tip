@@ -19,7 +19,7 @@ cd your-project-folder
 Instead of typing the full path, use the current directory shortcut:
 
 ```bash
-npx bmad-method install .
+npx bmad-method install
 ```
 
 When prompted for the project directory path, simply enter `.` (dot) to use the current directory:
