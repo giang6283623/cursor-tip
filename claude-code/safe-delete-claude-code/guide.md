@@ -64,6 +64,8 @@ code ~/.claude/settings.json
 
 This opens the global configuration file for Claude Code in your default editor.
 
+![Step 2](step-2.png)
+
 ---
 
 ### **Step 3: Configure Permissions (Security Layer 2)**
@@ -84,6 +86,8 @@ Add the following permissions configuration to your `settings.json` file to deny
 
 **What this does:** Creates a permission-level block that prevents Claude Code from executing any `rm` commands, providing an additional safety layer.
 
+![Step 3](step-3.png)
+
 ---
 
 ### **Step 4: Initialize CLAUDE.md (If Needed)**
@@ -95,6 +99,8 @@ Check if your project already has a `CLAUDE.md` file. If it doesn't exist, run t
 ```
 
 **What this does:** Initializes a new `CLAUDE.md` file with codebase documentation. This is a special file that Claude automatically includes in its context when starting a conversation.
+
+![Step 4](step-4.png)
 
 ---
 
@@ -113,6 +119,8 @@ Add this constraint to your `CLAUDE.md` file:
 The `trash` command safely moves files to the Trash/Recycle Bin, allowing recovery if needed.  
 This prevents accidental permanent file deletion and data loss.
 ```
+
+![Step 5](step-5.png)
 
 ---
 
