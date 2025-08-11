@@ -205,11 +205,18 @@ graph TD
    # Check that file appears in Trash, not permanently deleted
    ```
 
-2. **Verify permission blocking**:
+2. **Verify permission blocking in Claude Code CLI**:
+
+   Test this directly in Claude Code CLI (not in your macOS terminal) to verify the permissions deny rule works:
+
    ```bash
-   rm test.txt
-   # Should return an error due to permissions deny rule
+   Please help me delete the test.txt file.
+   # Should return an error due to permissions deny rule or redirect it to the command trash instead of rm
    ```
+
+   ![Verify Permission Blocking](verify-permission-blocking.png)
+
+   This test confirms that Claude Code CLI blocks the `rm` command while your regular terminal still allows it.
 
 ---
 
