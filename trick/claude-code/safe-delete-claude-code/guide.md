@@ -79,7 +79,7 @@ Add the following permissions configuration to your `settings.json` file to deny
   },
   "$schema": "https://json.schemastore.org/claude-code-settings.json",
   "permissions": {
-    "deny": ["Bash(rm:+*)"]
+    "deny": ["Bash(rm:*)"]
   }
 }
 ```
