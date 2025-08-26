@@ -19,6 +19,8 @@ Go to: [https://claude.ai/acquired](https://claude.ai/acquired)
   - Original price: ~~$20~~ **$10/month**
   - Includes Claude Code access
 
+![Claude Pricing Plans](1.png)
+
 ### Step 3: Complete Payment
 
 - Select "Monthly" billing option
@@ -28,6 +30,8 @@ Go to: [https://claude.ai/acquired](https://claude.ai/acquired)
   - **Discount**: -$10 (50% off for 3 months)
   - **Total due today**: $10
 
+![Payment Page with Discount](2.png)
+
 ### Step 4: Verify Your Subscription
 
 After payment, check your account settings to confirm:
@@ -35,6 +39,8 @@ After payment, check your account settings to confirm:
 - Pro plan is active
 - Monthly billing at discounted rate
 - Auto-renewal date (discount expires after 3 months)
+
+![Account Settings - Active Subscription](3.png)
 
 ## Important Notes
 
