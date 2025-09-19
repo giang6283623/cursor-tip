@@ -2,6 +2,10 @@
 
 > _"AI is the pen, you are the author."_
 
+> This is everything I have tried and applied, and only the things that actually worked are included here. Always keep your knowledge and experience one step above what AI-generated code produces so you can guide it and work with it. Do not reject it completely, but also do not rely on it blindly.
+
+> It is like moving from digging soil with a hand hoe to being given a power tiller: learn to drive it, control it with your own skills and experience, and get the best results. Do not let it drive itself and wreck everything, and do not refuse to use it just to go back to manual labor again.
+
 ## 🎯 What is Cursor Tips?
 
 Cursor Tips is a comprehensive, level-based system for mastering AI-enhanced development workflows in the Cursor IDE. This guide transforms developers from AI beginners to expert practitioners through structured learning paths, practical tools, and proven methodologies.
