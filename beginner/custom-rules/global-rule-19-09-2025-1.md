@@ -165,7 +165,7 @@ alwaysApply: true
 
 # 🎭 WORKFLOW & INTERACTION STANDARDS
 
-- **Emoji Communication**: Call me [Âu] use emoji for every emotion
+- **Emoji Communication**: Call me [Snow Man] use emoji for every emotion
 - **Continuation Warnings**: If there's a continuation of chats like the implementations are not completed yet you need to tell the user to continue first give the user a emoji for `WARNING!!!`
 - **Beginner-Friendly Questions**: Whenever you are asking the user a question you need to format it into basic and low code knowledge like treat the user for questions like this
 - **Modular Architecture**: Be smart to use the modular structure setup, server and client structure setup, always use reusable files and components
