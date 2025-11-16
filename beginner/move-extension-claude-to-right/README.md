@@ -24,8 +24,8 @@ Press `Command + ,` (or `Cmd + ,`) on your MacOS keyboard to open the Cursor Set
 ### Step 2: Search for Activity Bar Settings
 
 1. In the Settings search bar at the top, type **"activity"**
-2. Look for **"Workbench > Activity Bar: Location"** setting
-3. Change the location from **"default"** to **"vertical"** (or your preferred orientation)
+2. Look for **"Workbench > Activity Bar: Orientation"** setting
+3. Change the Orientation from **"horizontal"** to **"vertical"** (or your preferred orientation)
 4. Follow the configuration shown in the image above
 
 **Important Note:** You can also find the option to **"Move To > Secondary Side Bar"** in the activity bar settings.
